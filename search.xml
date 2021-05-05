@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>测试</title>
+      <link href="2021/05/05/ce-shi/"/>
+      <url>2021/05/05/ce-shi/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/JackWang-web/JackWang-web@1.0/imgs/1.jpg" alt="1"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件设计师 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 历年真题 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="2021/05/04/hello-world/"/>
       <url>2021/05/04/hello-world/</url>
@@ -21,7 +46,7 @@
       <link href="2021/05/04/wo-de-di-yi-pian-wen-zhang/"/>
       <url>2021/05/04/wo-de-di-yi-pian-wen-zhang/</url>
       
-        <content type="html"><![CDATA[<hr><h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><p>内容</p><hr><h2 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h2><p>内容</p><h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><p><a href="http://www.wangrui.icu/">www.wangrui.icu</a></p>]]></content>
+        <content type="html"><![CDATA[<hr>]]></content>
       
       
       

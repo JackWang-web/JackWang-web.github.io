@@ -6,7 +6,7 @@
   <link href="https://jackwang-web.github.io/atom.xml" rel="self"/>
   
   <link href="https://jackwang-web.github.io/"/>
-  <updated>2021-05-04T07:10:12.401Z</updated>
+  <updated>2021-05-05T01:35:04.072Z</updated>
   <id>https://jackwang-web.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="https://jackwang-web.github.io/2021/05/05/ce-shi/"/>
+    <id>https://jackwang-web.github.io/2021/05/05/ce-shi/</id>
+    <published>2021-05-04T16:14:33.000Z</published>
+    <updated>2021-05-05T01:35:04.072Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/JackWang-web/JackWang-web@1.0/imgs/1.jpg&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="软件设计师" scheme="https://jackwang-web.github.io/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E5%B8%88/"/>
+    
+    
+    <category term="历年真题" scheme="https://jackwang-web.github.io/tags/%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -42,7 +67,7 @@
     <link href="https://jackwang-web.github.io/2021/05/04/wo-de-di-yi-pian-wen-zhang/"/>
     <id>https://jackwang-web.github.io/2021/05/04/wo-de-di-yi-pian-wen-zhang/</id>
     <published>2021-05-04T01:52:10.000Z</published>
-    <updated>2021-05-04T01:59:56.102Z</updated>
+    <updated>2021-05-05T00:46:58.843Z</updated>
     
     
       
@@ -50,9 +75,7 @@
         
         
     <summary type="html">&lt;hr&gt;
-&lt;h2 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink&quot; title=&quot;第一章&quot;&gt;&lt;/a&gt;第一章&lt;/h2&gt;&lt;p&gt;内容&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&quot;第二章&quot;&gt;&lt;a href=&quot;#第二章&quot; class=&quot;headerlink&quot;</summary>
+</summary>
         
       
     
