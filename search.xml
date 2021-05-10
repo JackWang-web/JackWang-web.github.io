@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>软件设计师中级上午题总结</title>
+      <link href="2021/05/06/ruan-jian-she-ji-shi-zhong-ji-shang-wu-ti-zong-jie/"/>
+      <url>2021/05/06/ruan-jian-she-ji-shi-zhong-ji-shang-wu-ti-zong-jie/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>“广记不如淡墨”，谚语，意思是死记不如用笔写下来。</p></blockquote><h5 id="1-McCabe度量法求环路复杂度"><a href="#1-McCabe度量法求环路复杂度" class="headerlink" title="1.McCabe度量法求环路复杂度"></a>1.McCabe度量法求环路复杂度</h5><p><img src="https://cdn.jsdelivr.net/gh/JackWang-web/JackWang-web.github.io/imgs/image-20210510083812006.png" alt="image-20210510083812006"></p><h6 id="1-1-方法1：封闭区域数-m-，环路复杂度-m-1"><a href="#1-1-方法1：封闭区域数-m-，环路复杂度-m-1" class="headerlink" title="1.1 方法1：封闭区域数(m)，环路复杂度=m+1"></a>1.1 方法1：封闭区域数(m)，环路复杂度=m+1</h6><h6 id="1-2-方法2：边数（m）-节点数（n）-2"><a href="#1-2-方法2：边数（m）-节点数（n）-2" class="headerlink" title="1.2 方法2：边数（m）-节点数（n）+2"></a>1.2 方法2：边数（m）-节点数（n）+2</h6><p>tips：考试的时候两种方法都验证一下</p><p>个别题型：</p><p><img src="/imgs/image-20210510084826196.png" alt="image-20210510084826196"></p><p><img src="/imgs/image-20210510085028870.png" alt="image-20210510085028870"></p><h5 id="2-前驱图（2-3分）"><a href="#2-前驱图（2-3分）" class="headerlink" title="2.前驱图（2-3分）"></a>2.前驱图（2-3分）</h5><h5 id="题型1-分两步，1标信号量，从小到大，2看执行的位置"><a href="#题型1-分两步，1标信号量，从小到大，2看执行的位置" class="headerlink" title="题型1:分两步，1标信号量，从小到大，2看执行的位置"></a>题型1:分两步，1标信号量，从小到大，2看执行的位置</h5><p><img src="/imgs/image-20210510085557250.png" alt="image-20210510085557250"></p><p>题型2：</p><p><img src="/imgs/image-20210510090015470.png" alt="image-20210510090015470"></p><h5 id="3-有限自动机（1分）"><a href="#3-有限自动机（1分）" class="headerlink" title="3.有限自动机（1分）"></a>3.有限自动机（1分）</h5><h6 id="题型1：将答案带进自动机验证"><a href="#题型1：将答案带进自动机验证" class="headerlink" title="题型1：将答案带进自动机验证"></a>题型1：将答案带进自动机验证</h6><p><img src="/imgs/image-20210510090504588.png" alt="image-20210510090504588"></p><h6 id="题型2：带答案"><a href="#题型2：带答案" class="headerlink" title="题型2：带答案"></a>题型2：带答案</h6><p><img src="/imgs/image-20210510090728810.png" alt="image-20210510090728810"></p><h6 id="题型3：-0-1-表示0或1的组合出现0-n次"><a href="#题型3：-0-1-表示0或1的组合出现0-n次" class="headerlink" title="题型3：(0|1)* 表示0或1的组合出现0~n次"></a>题型3：(0|1)* 表示0或1的组合出现0~n次</h6><p><img src="/mgs/image-20210510091103482.png" alt="image-20210510091103482"></p><h6 id="题型4：等价图"><a href="#题型4：等价图" class="headerlink" title="题型4：等价图"></a>题型4：等价图</h6><p><img src="/imgs/image-20210510091554523.png" alt="image-20210510091554523"></p><h5 id="4-传值、引用调用函数"><a href="#4-传值、引用调用函数" class="headerlink" title="4.传值、引用调用函数"></a>4.传值、引用调用函数</h5>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 软件设计师中级 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>软件设计师中级下午题总结</title>
+      <link href="2021/05/06/ruan-jian-she-ji-shi-zhong-ji-xia-wu-ti-zong-jie/"/>
+      <url>2021/05/06/ruan-jian-she-ji-shi-zhong-ji-xia-wu-ti-zong-jie/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 软件设计师中级 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>学习三步曲</title>
       <link href="2021/05/05/xue-xi-san-bu-qu/"/>
       <url>2021/05/05/xue-xi-san-bu-qu/</url>

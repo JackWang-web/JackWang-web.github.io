@@ -6,7 +6,7 @@
   <link href="https://jackwang-web.github.io/atom.xml" rel="self"/>
   
   <link href="https://jackwang-web.github.io/"/>
-  <updated>2021-05-05T02:22:12.038Z</updated>
+  <updated>2021-05-10T01:29:59.426Z</updated>
   <id>https://jackwang-web.github.io/</id>
   
   <author>
@@ -15,6 +15,47 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>软件设计师中级上午题总结</title>
+    <link href="https://jackwang-web.github.io/2021/05/06/ruan-jian-she-ji-shi-zhong-ji-shang-wu-ti-zong-jie/"/>
+    <id>https://jackwang-web.github.io/2021/05/06/ruan-jian-she-ji-shi-zhong-ji-shang-wu-ti-zong-jie/</id>
+    <published>2021-05-06T02:12:04.000Z</published>
+    <updated>2021-05-10T01:29:59.426Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;“广记不如淡墨”，谚语，意思是死记不如用笔写下来。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5 id=&quot;1-McCabe度量法求环路复杂度&quot;&gt;&lt;a href=&quot;#1-McCabe度量法求环路复杂度&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="软件设计师中级" scheme="https://jackwang-web.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E5%B8%88%E4%B8%AD%E7%BA%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>软件设计师中级下午题总结</title>
+    <link href="https://jackwang-web.github.io/2021/05/06/ruan-jian-she-ji-shi-zhong-ji-xia-wu-ti-zong-jie/"/>
+    <id>https://jackwang-web.github.io/2021/05/06/ruan-jian-she-ji-shi-zhong-ji-xia-wu-ti-zong-jie/</id>
+    <published>2021-05-06T02:12:04.000Z</published>
+    <updated>2021-05-07T09:16:41.495Z</updated>
+    
+    
+    
+    
+    
+    <category term="软件设计师中级" scheme="https://jackwang-web.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E5%B8%88%E4%B8%AD%E7%BA%A7/"/>
+    
+  </entry>
   
   <entry>
     <title>学习三步曲</title>
