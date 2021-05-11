@@ -6,7 +6,7 @@
   <link href="https://jackwang-web.github.io/atom.xml" rel="self"/>
   
   <link href="https://jackwang-web.github.io/"/>
-  <updated>2021-05-10T01:29:59.426Z</updated>
+  <updated>2021-05-11T06:52:00.690Z</updated>
   <id>https://jackwang-web.github.io/</id>
   
   <author>
@@ -17,11 +17,64 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>打卡第一天</title>
+    <link href="https://jackwang-web.github.io/2021/05/11/jin-ri-ren-wu/"/>
+    <id>https://jackwang-web.github.io/2021/05/11/jin-ri-ren-wu/</id>
+    <published>2021-05-11T00:19:33.000Z</published>
+    <updated>2021-05-11T06:52:00.690Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="每日任务" scheme="https://jackwang-web.github.io/tags/%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我想带你一起蜕变！你准备好了吗？</title>
+    <link href="https://jackwang-web.github.io/2021/05/10/wo-xiang-dai-ni-yi-qi-shui-bian-ni-zhun-bei-hao-liao-ma/"/>
+    <id>https://jackwang-web.github.io/2021/05/10/wo-xiang-dai-ni-yi-qi-shui-bian-ni-zhun-bei-hao-liao-ma/</id>
+    <published>2021-05-10T12:54:25.000Z</published>
+    <updated>2021-05-11T00:17:40.979Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;自律不是自虐,而是建立一种生活认知和习惯。当自律成为你的属性时一切都会变得简单起来。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;从现在自律起来，一切交给时间，总有一天会站在曾经想要去的地方。&lt;/p&gt;
+&lt;/blockquot</summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="https://jackwang-web.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="自律" scheme="https://jackwang-web.github.io/tags/%E8%87%AA%E5%BE%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>软件设计师中级上午题总结</title>
     <link href="https://jackwang-web.github.io/2021/05/06/ruan-jian-she-ji-shi-zhong-ji-shang-wu-ti-zong-jie/"/>
     <id>https://jackwang-web.github.io/2021/05/06/ruan-jian-she-ji-shi-zhong-ji-shang-wu-ti-zong-jie/</id>
     <published>2021-05-06T02:12:04.000Z</published>
-    <updated>2021-05-10T01:29:59.426Z</updated>
+    <updated>2021-05-10T02:09:24.479Z</updated>
     
     
       
@@ -31,11 +84,13 @@
     <summary type="html">&lt;blockquote&gt;
 &lt;p&gt;“广记不如淡墨”，谚语，意思是死记不如用笔写下来。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h5 id=&quot;1-McCabe度量法求环路复杂度&quot;&gt;&lt;a href=&quot;#1-McCabe度量法求环路复杂度&quot; class=&quot;headerlink&quot;</summary>
+&lt;h2 id=&quot;1-McCabe度量法求环路复杂度&quot;&gt;&lt;a href=&quot;#1-McCabe度量法求环路复杂度&quot; class=&quot;headerlink&quot;</summary>
         
       
     
     
+    
+    <category term="考试" scheme="https://jackwang-web.github.io/categories/%E8%80%83%E8%AF%95/"/>
     
     
     <category term="软件设计师中级" scheme="https://jackwang-web.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E5%B8%88%E4%B8%AD%E7%BA%A7/"/>
