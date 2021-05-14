@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>打卡第四天</title>
+      <link href="2021/05/14/da-qia-di-si-tian/"/>
+      <url>2021/05/14/da-qia-di-si-tian/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>心语</p></blockquote><p><img src="/imgs/image-20210514070807488.png" alt="image-20210514070807488"></p><h2 id="软件设计师"><a href="#软件设计师" class="headerlink" title="软件设计师"></a>软件设计师</h2><blockquote><p>优缺点不怎么考，主要考逻辑地址也物理地址的转换</p><p>通过页面大小4k计算，业内地址，4k=2^12B,业内偏移不变的位数（16进制）</p></blockquote><p><img src="/imgs/image-20210514070539212.png" alt="image-20210514070539212"></p><blockquote><p>LRU算法：淘汰最近没有被访问过的页,看不出来，看修改位未被修改过</p></blockquote><p><img src="/imgs/image-20210514072003738.png" alt="image-20210514072003738"></p><blockquote><p>Tips地址从0开始，一级索引的物理块号，磁盘大小/地址大小-直接索引+1=一级间接索引，注意单位统一</p></blockquote><p><img src="/imgs/image-20210514072552504.png" alt="image-20210514072552504"></p><p><img src="/imgs/image-20210514073557488.png" alt="image-20210514073557488"></p><p><img src="/imgs/image-20210514073638489.png" alt="image-20210514073638489"></p><p><img src="/imgs/image-20210514073739774.png" alt="image-20210514073739774"></p><p><img src="/imgs/image-20210514073825599.png" alt="image-20210514073825599"></p><p><img src="/imgs/image-20210514074947130.png" alt="image-20210514074947130"></p><p><img src="/imgs/image-20210514075053170.png" alt="image-20210514075053170"></p><p><img src="/imgs/image-20210514075123103.png" alt="image-20210514075123103"></p><p><img src="/imgs/image-20210514075600413.png" alt="image-20210514075600413"></p><blockquote><p>越往上越逻辑,三级模式两级映射</p></blockquote><p><img src="/imgs/image-20210514075650272.png" alt="image-20210514075650272"></p><p><img src="/imgs/image-20210514080211953.png" alt="image-20210514080211953"></p><p><img src="/imgs/image-20210514080246691.png" alt="image-20210514080246691"></p><p><img src="/imgs/image-20210514080338487.png" alt="image-20210514080338487"></p><p><img src="/imgs/image-20210514080420654.png" alt="image-20210514080420654"></p><blockquote><p>如题存在部分函数依赖，一级范式最lose的范式</p></blockquote><p><img src="/imgs/image-20210514080723716.png" alt="image-20210514080723716"></p><blockquote><p><code>无损分解：</code>分解R1-R2=R1有，R2没有，通过他，他们共同的字母去推，什么都推不出来是有损分解</p><p><code>函数依赖</code>看分解的式子中是否能推导</p></blockquote><p><img src="/imgs/image-20210514081236036.png" alt="image-20210514081236036"></p><p><img src="/imgs/image-20210514082013968.png" alt="image-20210514082013968"></p><p><img src="/imgs/image-20210514082102563.png" alt="image-20210514082102563"></p><blockquote><p>把操作相关的写到日志文件里，数据相关的写到数据文件里</p></blockquote><p><img src="/imgs/image-20210514082146441.png" alt="image-20210514082146441"></p><p><img src="/imgs/image-20210514082348180.png" alt="image-20210514082348180"></p><p><img src="/imgs/image-20210514082422741.png" alt="image-20210514082422741"></p><p><img src="/imgs/image-20210514082737556.png" alt="image-20210514082737556"></p><blockquote><p>自然连接：重复的只显示一次</p></blockquote><p><img src="/imgs/image-20210514083019339.png" alt="image-20210514083019339"></p><p><img src="/imgs/image-20210514083159033.png" alt="image-20210514083159033"></p><p><img src="/imgs/image-20210514083348851.png" alt="image-20210514083348851"></p><p><img src="/imgs/image-20210514083439622.png" alt="image-20210514083439622"></p><p><img src="/imgs/image-20210514083522013.png" alt="image-20210514083522013"></p><p><img src="/imgs/image-20210514083633934.png" alt="image-20210514083633934"></p><p><img src="/imgs/image-20210514083708219.png" alt="image-20210514083708219"></p><p><img src="/imgs/image-20210514084021389.png" alt="image-20210514084021389"></p><p><img src="/imgs/image-20210514084113593.png" alt="image-20210514084113593"></p><p><img src="/imgs/image-20210514084203255.png" alt="image-20210514084203255"></p><p><img src="/imgs/image-20210514084239515.png" alt="image-20210514084239515"></p><p><img src="/imgs/image-20210514084311024.png" alt="image-20210514084311024"></p><p><img src="/imgs/image-20210514084349901.png" alt="image-20210514084349901"></p><p><img src="/imgs/image-20210514084424915.png" alt="image-20210514084424915"></p><p><img src="/imgs/image-20210514084514254.png" alt="image-20210514084514254"></p><p><img src="/imgs/image-20210514084608643.png" alt="image-20210514084608643"></p><p><img src="/imgs/image-20210514084645355.png" alt="image-20210514084645355"></p><p><img src="/imgs/image-20210514084732000.png" alt="image-20210514084732000"></p><p><img src="/imgs/image-20210514084823821.png" alt="image-20210514084823821"></p><h3 id><a href="#" class="headerlink" title></a></h3>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 每日任务 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>打卡第三天</title>
       <link href="2021/05/13/da-qia-di-san-tian/"/>
       <url>2021/05/13/da-qia-di-san-tian/</url>
