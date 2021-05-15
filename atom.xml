@@ -6,7 +6,7 @@
   <link href="https://jackwang-web.github.io/atom.xml" rel="self"/>
   
   <link href="https://jackwang-web.github.io/"/>
-  <updated>2021-05-15T00:26:05.072Z</updated>
+  <updated>2021-05-15T15:32:29.063Z</updated>
   <id>https://jackwang-web.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://jackwang-web.github.io/2021/05/15/da-qia-di-wu-tian/"/>
     <id>https://jackwang-web.github.io/2021/05/15/da-qia-di-wu-tian/</id>
     <published>2021-05-14T22:37:30.000Z</published>
-    <updated>2021-05-15T00:26:05.072Z</updated>
+    <updated>2021-05-15T15:32:29.063Z</updated>
     
     
       
@@ -29,9 +29,12 @@
         
         
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;weiyu&lt;/p&gt;
+&lt;p&gt;公钥：加密和验证（对称加密、共享加密）&lt;/p&gt;
+&lt;p&gt;私钥：解密和签名&lt;/p&gt;
+&lt;p&gt;CA机构 权威机构&lt;/p&gt;
+&lt;p&gt;CA题目一般与CA相关&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&quot;软件设计师&quot;&gt;&lt;a href=&quot;#软件设计师&quot; class=&quot;headerlink&quot; title=&quot;软件设计师&quot;&gt;&lt;/a&gt;软件设计师&lt;/h2&gt;&lt;p&gt;&lt;img</summary>
+&lt;h2 id=&quot;软件设计师&quot;&gt;&lt;a href=&quot;#软件设计师&quot;</summary>
         
       
     
