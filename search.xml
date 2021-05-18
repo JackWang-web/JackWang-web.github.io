@@ -4,6 +4,63 @@
   
     
     <entry>
+      <title>打卡第八天</title>
+      <link href="2021/05/18/da-qia-di-ba-tian/"/>
+      <url>2021/05/18/da-qia-di-ba-tian/</url>
+      
+        <content type="html"><![CDATA[<blockquote></blockquote><p><img src="/imgs/image-20210518082511690.png" alt="image-20210518082511690"></p><blockquote><h3 id="软件设计师"><a href="#软件设计师" class="headerlink" title="软件设计师"></a>软件设计师</h3></blockquote><p>上下文无关文法:形式语言理论中一种重要的变换文法，用来描述上下文无关语言，在<code>乔姆斯基分层中称为2型文法</code>。由于程序设计语言的<code>语 法</code>基本上都是<code>上下文无关文法</code>,因此应用十分广泛。</p><p>本题考查UML类图之间类与类之间的关系。<br>UML类图中类与类之间的关系有五种:依赖、关联、聚合、组合与继承。依赖是几种关系中最弱的一种关系，通常，使用类库就是其中的一种关系。聚合与组合都表示了整体和部分的关系。</p><p><code>组合的程度比聚合高</code>，<code>当整体对象消失时,部分对象也随之消失</code>,则属于<code>组合</code>关系，当整体对象消失而部分对象依然可以存在并继续被使用时，则属于<code>聚合</code>关系。</p><p><code>改正性维护</code>:在软件交付使用后，必然会有一部分隐藏的错误被带到运行阶段来。 这些隐藏下来的错误在某些特定的使用环境下就会暴露出<br>来。为了<code>纠正这些错误</code>而对软件进行的维护工作就是改正性维护。<br><code>适应性维护</code>:随着计算机的飞速发展，<code>外部环境</code>(新的硬、软件配置)或数据环境(数据库、数据格式、 数据输入输出方式、数据存储介质)或应<br>用<code>环境</code>可能发生<code>变化</code>，为了<code>使软件适应这种变化</code>，而去修改软件的过程就叫做适应性维护。<br><code>完善性维护</code>:<code>在软件的使用过程中</code>，用户往往会对软件<code>提出新的功能与性能要求</code>。为了满足这些要求，需要修改或再开发软件，以扩充软件功能、增强软件性能、改进加工效率、提高软件的可维护性。这种情况下进行的维护活动叫做完善性维护。<br><code>预防性维护</code>:为了提高软件的可维护性、可靠性等而提出的一种维护类型，它为以后进一步改进软件打下良好基础。 通常，预防性维护定义为:“把今天的方法学用于昨天的系统以满足明天的需要”。也就是说，采用先进的软件工程方法对需要维护的软件或软件中的某一部分(重新)进行设计、编制和测试。<br>综上所述，本题的正确答案应选C。</p><p>[单选题]<br>某企业由于外部市场环境和管理需求的变化对现有软件系统提出新的需求，则对该软件系统进行的维护属于( ) 维护。<br>问题1选项<br>OA.正确性<br>O B.完善性<br>OC适应性<br>O D.预防性</p><p>动态语言是指程序在运行时可以改变其结构，例如新的函数可以被引进、已有的函数可以被删除等在结构上的变化等。动态语言的类型检<br>查是在运行时进行的，其优点是方便阅读，不需要写非常多的与类型相关的代码;缺点是不方便调试，命名不规范时会读不懂、不利于理解<br>等。<br>脚本语言代表一套与系统程序设计语言不同的协定。它们牺牲执行速度和与系统程序设计语言相关的类型长度而提供更高的编程创作能<br>力和软件重用。脚本语言更适合在联系复杂的应用程序中进行胶着(粘合)。为了简化连接组件的工作，脚本语言被设计为无类型的，脚本<br>语言一般是面向字符的，因为字符为许多不同的事物提供了一致的描述。<br>事实上，脚本语言都是动态语言，而动态语言都是解释型语言， 不管它们是否是面向对象的语言。</p><blockquote><p>linux系统的根目录是/<br>root超级用户的家目录是/root</p></blockquote><p>一个B类网络的子网掩码为255.255. 224.0 ,则这个网络被划分成了( ) 个子网。<br>问题1选项<br>OA.2<br>OB.4<br>Oc.6<br>OD.8<br>参考答案: D<br>民查看解析●收藏<br>你的答案: B<br><img src="/imgs/image-20210518235000043.png" alt="image-20210518235000043"></p><p><img src="/imgs/image-20210518235125614.png" alt="image-20210518235125614"></p><p><img src="/imgs/image-20210518235206048.png" alt="image-20210518235206048"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 每日任务 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>打卡第七天</title>
+      <link href="2021/05/17/da-qia-di-qi-tian/"/>
+      <url>2021/05/17/da-qia-di-qi-tian/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>鸡汤</p></blockquote><h3 id="软件设计师每日一练错题"><a href="#软件设计师每日一练错题" class="headerlink" title="软件设计师每日一练错题"></a>软件设计师每日一练错题</h3><p>在Windows系统中,默认权限最低的用户组是( ) 。<br>问题1选项<br>O A.everyone<br>O B.administrators<br>O C.power users<br>O D.users</p><p>参考答案: A<br>你的答案: D<br>目试题解析:</p><p> <code>Everyone</code>即所有的用户 , 计算机上的所有用户都属于这个组,它的默认权限最低。<br><code>Administrators</code>即管理员组，默认情况下，Administrators中的用户对计算机域有不受限制的完全访问权。分配给该组的默认权限允许对整个系统进行完全控制,该组拥有最高的默认权限。<br><code>power users</code>即高级用户组，它可以执行除了为Administrators组保留的任务外的其他任何操作系统任务，它的默认权限仅次于Administrators.<br><code>Users</code>即普通用户组，这个组的用户无法进行有意或无意的改动。因此，用户可以运行经过验证的应用程序，但不可以运行大多数旧版应用程序。Users 组是最安全的组，因为分配给该组的默认权限不允许成员修改操作系统的设置或用户资料。</p><p>[单选题]<br>设备驱动程序是直接与( ) 打交道的软件模块。一般而言，设备驱动程序的任务是接受来自与设备( ) 。<br>问题1选项<br>OA硬件<br>O B.办公软件<br>Oc编译程序<br>O D.连接程序<br>问题2选项<br>OA有关的上层软件的抽象请求，进行与设备相关的处理<br>O B.无关的.上层软件的抽象请求,进行与设备相关的处理<br>OC.有关的上层软件的抽象请求，进行与设备无关的处理<br>O D.无关的上层软件的抽象请求，进行与设备无关的处理</p><p>参考答案:A、E<br>你的答案:A、A<br>自试题解析:<br>本题考查的是操作系统设备管理中的基础知识。<br>设备驱动程序是直接与硬件打交道的软件模块。一般而言 ，设备驱动程序的任务是接受来自于<code>设备无关的上层软件的抽象请求</code>，进行与设备相关的处理。</p><p>(一)对于第一空,本题使用的是贪心法。<br>1、<code>分治法</code>特征:对于一个规模为n的问题，若该问题可以容易地解决(比如说规模n较小)则直接解决;否则将其分解为k个规模较小的子问<br>题,这些子问题互相独立且与原问题形式相同,递归地解这些子问题,然后将各子问题的解合并得到原问题的解。<br>2、<code>动态规划法</code>:在求解问题中，对于每一步决策 ，列出各种可能的局部解，再依据某种判定条件，舍弃那些肯定不能得到最优解的局部解,<br>在每一步都经过筛选 ，以每一步都是 最优解来保证全局是最优解。本题情景没有列出所有的可能解进行筛选，因此，本题不属于动态规划<br>法。<br>3、<code>回溯法</code>:回溯法是一种选优搜索法，按选优条件向前搜索，以达到目标。但当搜索到某一步时，发现原先选择并不优或达不到目标,就退<br>回一步重新选择。这种走不通就退回再走的技术就是回溯法。本题情景没有探索和回退的过程，因此，本题不属于回溯法。<br>4、<code>贪心法</code>:总是做出在当前来说是最好的选择，而并不从整体上加以考虑，它所做的每步选择只是当前步骤的局部最优选择，但从整体来说<br>不一定是最优的选择。由于它不必为了寻找最优解而穷尽所有可能解，因此其耗费时间少，一 般可以快速得到满意的解，但得不到最优解。<br>5、“能够覆盖左侧第一栋房子的最远位置，放置消防栓”为策略进行处理，取当前位置最优，因此本题属于贪心法的算法思想。<br>(二)对于第二空,时间复杂度。<br>由于本题的算法过程，是依次与各个房子进行判断，当所有房子都被比较之后，则问题结束，因此时间复杂度与房子的个数相关，本问题的<br>时间复杂度应该趋于现象，为O(n)。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 每日任务 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>打卡第六天</title>
+      <link href="2021/05/16/da-qia-di-liu-tian/"/>
+      <url>2021/05/16/da-qia-di-liu-tian/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>不要对亲近的人说谢谢。谢谢这个词意味着距离感，对朋友可以说「 兄弟，真棒」对，爱人可以说「宝贝，爱你」</p></blockquote><p><img src="/imgs/image-20210516084619821.png" alt="image-20210516084619821"></p><h3 id="软件设计师错题整理"><a href="#软件设计师错题整理" class="headerlink" title="软件设计师错题整理"></a>软件设计师错题整理</h3><blockquote><p>BIOS（基本输入输出系统）是一组固化到计算机内主板上一个ROM芯片上的程序</p><p>奇偶校验只能查错不能纠错</p><p>公开加密是非对称加密，共享加密是对称加密</p><p>结构化分析的结果：一套分层的数据流图、一本数据字典、一组小说明（也称逻辑加工说明）、补充材料。</p><p>短路运算：</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 每日任务 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>打卡第五天</title>
       <link href="2021/05/15/da-qia-di-wu-tian/"/>
       <url>2021/05/15/da-qia-di-wu-tian/</url>
@@ -124,18 +181,12 @@
     
     
     <entry>
-      <title>软件设计师中级上午题总结</title>
-      <link href="2021/05/06/ruan-jian-she-ji-shi-zhong-ji-shang-wu-ti-zong-jie/"/>
-      <url>2021/05/06/ruan-jian-she-ji-shi-zhong-ji-shang-wu-ti-zong-jie/</url>
+      <title>软件设计师中级下午题总结</title>
+      <link href="2021/05/06/ruan-jian-she-ji-shi-zhong-ji-xia-wu-ti-zong-jie/"/>
+      <url>2021/05/06/ruan-jian-she-ji-shi-zhong-ji-xia-wu-ti-zong-jie/</url>
       
-        <content type="html"><![CDATA[<blockquote><p>“广记不如淡墨”，谚语，意思是死记不如用笔写下来。</p></blockquote><h2 id="1-McCabe度量法求环路复杂度"><a href="#1-McCabe度量法求环路复杂度" class="headerlink" title="1.McCabe度量法求环路复杂度"></a>1.McCabe度量法求环路复杂度</h2><p><img src="https://cdn.jsdelivr.net/gh/JackWang-web/JackWang-web.github.io/imgs/image-20210510083812006.png" alt="image-20210510083812006"></p><h3 id="1-1-方法1：封闭区域数-m-，环路复杂度-m-1"><a href="#1-1-方法1：封闭区域数-m-，环路复杂度-m-1" class="headerlink" title="1.1 方法1：封闭区域数(m)，环路复杂度=m+1"></a>1.1 方法1：封闭区域数(m)，环路复杂度=m+1</h3><h3 id="1-2-方法2：边数（m）-节点数（n）-2"><a href="#1-2-方法2：边数（m）-节点数（n）-2" class="headerlink" title="1.2 方法2：边数（m）-节点数（n）+2"></a>1.2 方法2：边数（m）-节点数（n）+2</h3><p>tips：考试的时候两种方法都验证一下</p><p>个别题型：</p><p><img src="/imgs/image-20210510084826196.png" alt="image-20210510084826196"></p><p><img src="/imgs/image-20210510085028870.png" alt="image-20210510085028870"></p><h2 id="2-前驱图（2-3分）"><a href="#2-前驱图（2-3分）" class="headerlink" title="2.前驱图（2-3分）"></a>2.前驱图（2-3分）</h2><h3 id="题型1-分两步，1标信号量，从小到大，2看执行的位置"><a href="#题型1-分两步，1标信号量，从小到大，2看执行的位置" class="headerlink" title="题型1:分两步，1标信号量，从小到大，2看执行的位置"></a>题型1:分两步，1标信号量，从小到大，2看执行的位置</h3><p><img src="/imgs/image-20210510085557250.png" alt="image-20210510085557250"></p><h3 id="题型2："><a href="#题型2：" class="headerlink" title="题型2："></a>题型2：</h3><p><img src="/imgs/image-20210510090015470.png" alt="image-20210510090015470"></p><h2 id="3-有限自动机（1分）"><a href="#3-有限自动机（1分）" class="headerlink" title="3.有限自动机（1分）"></a>3.有限自动机（1分）</h2><h3 id="题型1：将答案带进自动机验证"><a href="#题型1：将答案带进自动机验证" class="headerlink" title="题型1：将答案带进自动机验证"></a>题型1：将答案带进自动机验证</h3><p><img src="/imgs/image-20210510090504588.png" alt="image-20210510090504588"></p><h3 id="题型2：带答案"><a href="#题型2：带答案" class="headerlink" title="题型2：带答案"></a>题型2：带答案</h3><p><img src="/imgs/image-20210510090728810.png" alt="image-20210510090728810"></p><h3 id="题型3：-0-1-表示0或1的组合出现0-n次"><a href="#题型3：-0-1-表示0或1的组合出现0-n次" class="headerlink" title="题型3：(0|1)* 表示0或1的组合出现0~n次"></a>题型3：(0|1)* 表示0或1的组合出现0~n次</h3><p><img src="/imgs/image-20210510091103482.png" alt="image-20210510091103482"></p><h3 id="题型4：等价图"><a href="#题型4：等价图" class="headerlink" title="题型4：等价图"></a>题型4：等价图</h3><p><img src="/imgs/image-20210510091554523.png" alt="image-20210510091554523"></p><h2 id="4-传值、引用调用函数（1-2分）"><a href="#4-传值、引用调用函数（1-2分）" class="headerlink" title="4.传值、引用调用函数（1-2分）"></a>4.传值、引用调用函数（1-2分）</h2><h3 id="4-1传值按正常逻辑走，传引用-amp-符号-实参不可以是表达式"><a href="#4-1传值按正常逻辑走，传引用-amp-符号-实参不可以是表达式" class="headerlink" title="4.1传值按正常逻辑走，传引用&amp;符号,实参不可以是表达式"></a>4.1传值按正常逻辑走，传引用&amp;符号,实参不可以是表达式</h3><p><img src="/imgs/image-20210510095542950.png" alt="image-20210510095542950"></p><p><img src="/imgs/image-20210510100217730.png" alt="image-20210510100217730"></p><p><img src="/imgs/image-20210510100458476.png" alt="image-20210510100458476"></p><p><img src="/imgs/image-20210510100755968.png" alt="image-20210510100755968"></p><h2 id="5-知识产权保护"><a href="#5-知识产权保护" class="headerlink" title="5.知识产权保护"></a>5.知识产权保护</h2><h2 id="6-KMP算法"><a href="#6-KMP算法" class="headerlink" title="6.KMP算法"></a>6.KMP算法</h2>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
-      
-      <categories>
-          
-          <category> 考试 </category>
-          
-      </categories>
       
       
         <tags>
@@ -149,12 +200,18 @@
     
     
     <entry>
-      <title>软件设计师中级下午题总结</title>
-      <link href="2021/05/06/ruan-jian-she-ji-shi-zhong-ji-xia-wu-ti-zong-jie/"/>
-      <url>2021/05/06/ruan-jian-she-ji-shi-zhong-ji-xia-wu-ti-zong-jie/</url>
+      <title>软件设计师中级上午题总结</title>
+      <link href="2021/05/06/ruan-jian-she-ji-shi-zhong-ji-shang-wu-ti-zong-jie/"/>
+      <url>2021/05/06/ruan-jian-she-ji-shi-zhong-ji-shang-wu-ti-zong-jie/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<blockquote><p>“广记不如淡墨”，谚语，意思是死记不如用笔写下来。</p></blockquote><h2 id="1-McCabe度量法求环路复杂度"><a href="#1-McCabe度量法求环路复杂度" class="headerlink" title="1.McCabe度量法求环路复杂度"></a>1.McCabe度量法求环路复杂度</h2><p><img src="https://cdn.jsdelivr.net/gh/JackWang-web/JackWang-web.github.io/imgs/image-20210510083812006.png" alt="image-20210510083812006"></p><h3 id="1-1-方法1：封闭区域数-m-，环路复杂度-m-1"><a href="#1-1-方法1：封闭区域数-m-，环路复杂度-m-1" class="headerlink" title="1.1 方法1：封闭区域数(m)，环路复杂度=m+1"></a>1.1 方法1：封闭区域数(m)，环路复杂度=m+1</h3><h3 id="1-2-方法2：边数（m）-节点数（n）-2"><a href="#1-2-方法2：边数（m）-节点数（n）-2" class="headerlink" title="1.2 方法2：边数（m）-节点数（n）+2"></a>1.2 方法2：边数（m）-节点数（n）+2</h3><p>tips：考试的时候两种方法都验证一下</p><p>个别题型：</p><p><img src="/imgs/image-20210510084826196.png" alt="image-20210510084826196"></p><p><img src="/imgs/image-20210510085028870.png" alt="image-20210510085028870"></p><h2 id="2-前驱图（2-3分）"><a href="#2-前驱图（2-3分）" class="headerlink" title="2.前驱图（2-3分）"></a>2.前驱图（2-3分）</h2><h3 id="题型1-分两步，1标信号量，从小到大，2看执行的位置"><a href="#题型1-分两步，1标信号量，从小到大，2看执行的位置" class="headerlink" title="题型1:分两步，1标信号量，从小到大，2看执行的位置"></a>题型1:分两步，1标信号量，从小到大，2看执行的位置</h3><p><img src="/imgs/image-20210510085557250.png" alt="image-20210510085557250"></p><h3 id="题型2："><a href="#题型2：" class="headerlink" title="题型2："></a>题型2：</h3><p><img src="/imgs/image-20210510090015470.png" alt="image-20210510090015470"></p><h2 id="3-有限自动机（1分）"><a href="#3-有限自动机（1分）" class="headerlink" title="3.有限自动机（1分）"></a>3.有限自动机（1分）</h2><h3 id="题型1：将答案带进自动机验证"><a href="#题型1：将答案带进自动机验证" class="headerlink" title="题型1：将答案带进自动机验证"></a>题型1：将答案带进自动机验证</h3><p><img src="/imgs/image-20210510090504588.png" alt="image-20210510090504588"></p><h3 id="题型2：带答案"><a href="#题型2：带答案" class="headerlink" title="题型2：带答案"></a>题型2：带答案</h3><p><img src="/imgs/image-20210510090728810.png" alt="image-20210510090728810"></p><h3 id="题型3：-0-1-表示0或1的组合出现0-n次"><a href="#题型3：-0-1-表示0或1的组合出现0-n次" class="headerlink" title="题型3：(0|1)* 表示0或1的组合出现0~n次"></a>题型3：(0|1)* 表示0或1的组合出现0~n次</h3><p><img src="/imgs/image-20210510091103482.png" alt="image-20210510091103482"></p><h3 id="题型4：等价图"><a href="#题型4：等价图" class="headerlink" title="题型4：等价图"></a>题型4：等价图</h3><p><img src="/imgs/image-20210510091554523.png" alt="image-20210510091554523"></p><h2 id="4-传值、引用调用函数（1-2分）"><a href="#4-传值、引用调用函数（1-2分）" class="headerlink" title="4.传值、引用调用函数（1-2分）"></a>4.传值、引用调用函数（1-2分）</h2><h3 id="4-1传值按正常逻辑走，传引用-amp-符号-实参不可以是表达式"><a href="#4-1传值按正常逻辑走，传引用-amp-符号-实参不可以是表达式" class="headerlink" title="4.1传值按正常逻辑走，传引用&amp;符号,实参不可以是表达式"></a>4.1传值按正常逻辑走，传引用&amp;符号,实参不可以是表达式</h3><p><img src="/imgs/image-20210510095542950.png" alt="image-20210510095542950"></p><p><img src="/imgs/image-20210510100217730.png" alt="image-20210510100217730"></p><p><img src="/imgs/image-20210510100458476.png" alt="image-20210510100458476"></p><p><img src="/imgs/image-20210510100755968.png" alt="image-20210510100755968"></p><h2 id="5-知识产权保护"><a href="#5-知识产权保护" class="headerlink" title="5.知识产权保护"></a>5.知识产权保护</h2><h2 id="6-KMP算法"><a href="#6-KMP算法" class="headerlink" title="6.KMP算法"></a>6.KMP算法</h2>]]></content>
       
+      
+      <categories>
+          
+          <category> 考试 </category>
+          
+      </categories>
       
       
         <tags>

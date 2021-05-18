@@ -6,7 +6,7 @@
   <link href="https://jackwang-web.github.io/atom.xml" rel="self"/>
   
   <link href="https://jackwang-web.github.io/"/>
-  <updated>2021-05-15T15:32:29.063Z</updated>
+  <updated>2021-05-18T15:52:20.743Z</updated>
   <id>https://jackwang-web.github.io/</id>
   
   <author>
@@ -15,6 +15,85 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>打卡第八天</title>
+    <link href="https://jackwang-web.github.io/2021/05/18/da-qia-di-ba-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/18/da-qia-di-ba-tian/</id>
+    <published>2021-05-18T00:12:57.000Z</published>
+    <updated>2021-05-18T15:52:20.743Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/imgs/image-20210518082511690.png&quot; alt=&quot;image-20210518082511690&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    
+    <category term="每日任务" scheme="https://jackwang-web.github.io/tags/%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>打卡第七天</title>
+    <link href="https://jackwang-web.github.io/2021/05/17/da-qia-di-qi-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/17/da-qia-di-qi-tian/</id>
+    <published>2021-05-17T00:46:02.000Z</published>
+    <updated>2021-05-17T02:01:15.541Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;鸡汤&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;软件设计师每日一练错题&quot;&gt;&lt;a href=&quot;#软件设计师每日一练错题&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="每日任务" scheme="https://jackwang-web.github.io/tags/%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>打卡第六天</title>
+    <link href="https://jackwang-web.github.io/2021/05/16/da-qia-di-liu-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/16/da-qia-di-liu-tian/</id>
+    <published>2021-05-15T23:22:17.000Z</published>
+    <updated>2021-05-16T13:20:55.442Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不要对亲近的人说谢谢。谢谢这个词意味着距离感，对朋友可以说「 兄弟，真棒」对，爱人可以说「宝贝，爱你」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/imgs/image-20210516084619821.png&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="每日任务" scheme="https://jackwang-web.github.io/tags/%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>打卡第五天</title>
@@ -176,6 +255,21 @@
   </entry>
   
   <entry>
+    <title>软件设计师中级下午题总结</title>
+    <link href="https://jackwang-web.github.io/2021/05/06/ruan-jian-she-ji-shi-zhong-ji-xia-wu-ti-zong-jie/"/>
+    <id>https://jackwang-web.github.io/2021/05/06/ruan-jian-she-ji-shi-zhong-ji-xia-wu-ti-zong-jie/</id>
+    <published>2021-05-06T02:12:04.000Z</published>
+    <updated>2021-05-07T09:16:41.495Z</updated>
+    
+    
+    
+    
+    
+    <category term="软件设计师中级" scheme="https://jackwang-web.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E5%B8%88%E4%B8%AD%E7%BA%A7/"/>
+    
+  </entry>
+  
+  <entry>
     <title>软件设计师中级上午题总结</title>
     <link href="https://jackwang-web.github.io/2021/05/06/ruan-jian-she-ji-shi-zhong-ji-shang-wu-ti-zong-jie/"/>
     <id>https://jackwang-web.github.io/2021/05/06/ruan-jian-she-ji-shi-zhong-ji-shang-wu-ti-zong-jie/</id>
@@ -197,21 +291,6 @@
     
     
     <category term="考试" scheme="https://jackwang-web.github.io/categories/%E8%80%83%E8%AF%95/"/>
-    
-    
-    <category term="软件设计师中级" scheme="https://jackwang-web.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E5%B8%88%E4%B8%AD%E7%BA%A7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>软件设计师中级下午题总结</title>
-    <link href="https://jackwang-web.github.io/2021/05/06/ruan-jian-she-ji-shi-zhong-ji-xia-wu-ti-zong-jie/"/>
-    <id>https://jackwang-web.github.io/2021/05/06/ruan-jian-she-ji-shi-zhong-ji-xia-wu-ti-zong-jie/</id>
-    <published>2021-05-06T02:12:04.000Z</published>
-    <updated>2021-05-07T09:16:41.495Z</updated>
-    
-    
-    
     
     
     <category term="软件设计师中级" scheme="https://jackwang-web.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E5%B8%88%E4%B8%AD%E7%BA%A7/"/>
