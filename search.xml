@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>打卡第十天</title>
+      <link href="2021/05/20/da-qia-di-shi-tian/"/>
+      <url>2021/05/20/da-qia-di-shi-tian/</url>
+      
+        <content type="html"><![CDATA[<blockquote></blockquote><p><a href="https://uc.educity.cn/tiku/testReport.html?id=15810316">https://uc.educity.cn/tiku/testReport.html?id=15810316</a></p><p>在ASP的内置对象中，( ) 对象可以修改cookie中的值。</p><p>问题1选项<br>OA.request<br>O B.response<br>O C application<br>O D.session<br>目试题解析:在ASP的内置对象中。 能修改cookie中的值的是response ,它还可以创建cookie，而request可以访问cookie中的参数。</p><p>[单选题]<br>己知一棵度为3的树(一个结点的度是指其子树的数目,树的度是指该树中所有结点的度的最大值)中有5个度为1的结点，4个度为2的结点, 2个度为3的结点，那么，该树中的叶子结点数目为( ) 。</p><p>OA10<br>OB.9<br>OC.8<br>OD.7<br>目试题解析:由于叶子节点没有子树,因此它的度为0。而除根节点外, 其它的节点都应该可以做为子节点,即可以用于计算度。<br>在本题中告我有5个度为1的结点，4个度为2的结点, 2个度为3的结点,那么树中总的度数为5+8+6=19 ,因此树中除根节点外,就应该有19<br>个节点，所以树中总的节点数应该为20，那么叶子节点数=20-5-4-2=9。</p><blockquote><p>树</p><p>1.有且仅有一个根结点<br>2.双亲和孩子具有相同父节点的子结点互为兄弟结<br>3.结点的度:一个结点的子树的个数就是该结点的度<br>4树的度:树中结点的度的最大值<br>5.叶子结点:度为0的结点，没有子树的结点也叫做0结点。<br>6.结点的层次:根节点为第一层,根节点的孩子为第二层，以此类推。</p><p>树的遍历</p><ul><li>一共三种方式:<br>前序遍历:根左右<br>层次遍历:层左右<br>后序遍历:左右根</li></ul></blockquote><p><img src="/imgs/image-20210520133715688.png" alt="image-20210520133715688"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 每日任务 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>打卡第九天</title>
       <link href="2021/05/19/da-qia-di-jiu-tian/"/>
       <url>2021/05/19/da-qia-di-jiu-tian/</url>
