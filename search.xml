@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>打卡第十三天</title>
+      <link href="2021/05/23/da-qia-di-shi-san-tian/"/>
+      <url>2021/05/23/da-qia-di-shi-san-tian/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>你的压力来源于，无法自律只是假装努力，现状跟不上内心欲望，所以你焦虑甚至恐慌。</p></blockquote><p><img src="/imgs/image-20210523082437375.png" alt="image-20210523082437375"></p><p><a href="https://uc.educity.cn/tiku/testReport.html?id=15985669">https://uc.educity.cn/tiku/testReport.html?id=15985669</a></p><p>[单选题]<br>在面向对象技术中，( ) 定义了超类和子类之间的关系，子类中以更具体的方式实现从父类继承来的方法称为( ) ， 不同类的对象通过( ) 相互通信。<br>问题1选项<br>OA覆盖<br>OB.继承<br>OC.消息<br>OD多态<br>问题2选项<br>OA覆盖<br>OB.继承<br>Oc.消息<br>OD多态<br>问题3选项<br>OA.覆盖<br>O B.继承<br>OC.消息<br>OD多态</p><blockquote><p><code>继承:</code>父类和子类之间共享数据的方法的机制。这是类之间的一种关系，在定义和实现一个类的时候，可以在一个已经存在的类的基础上来进行，把这个已经存在的类所定义的内容作为自己的内容，并加入若干新的内容。<br><code>消息:</code>对象之间进行通信的一种构造叫做消息。当一 个消息发送给某个对象时，包含要求接收对象去执行某些活动的信息。接收到信息的对象经过解释，然后予以响应。这种通信机制叫做消息传递。发送消启的对象不需要知道接收消息的对象如何对请求予以响应。<br><code>多态:</code>在收到消息时，对象要予以响应。不同的对象收到同一消息可以产生完全不同的结果，这一现象叫做多态。<br><code>覆盖:</code>如果从父类继承的方法不能满足子类的需求，可以对其进行改写,这个过程叫方法的覆盖( override )。</p></blockquote><p>[单选题]<br>下列设计模式中，( ) 模式既是类结构型模式，又是对象结构型模式。此模式与( ) 模式类似的特征是，都给另-一个对象提供了一定程度 上的间接性，都涉<br>及到从自身以外的一个接口向这个对象转发请求。<br>问题1选项<br>OA.桥接( Bridge )<br>O B.适配器( Adapter )<br>O C组成( Composite )<br>O D.装饰器( Decorator )<br>问题2选项<br>OA.桥接( Bridge )<br>O B.适配器( Adapter )<br>OC.组成( Composite )<br>O D.装饰器(Decorator)</p><blockquote><p><code>适配器( adapter)模式</code>。适配器模式将一个接转换成客户希望的另一个接口，从而使接口不兼容的那些类可以一起工作。<code>适配器模式既可以作为类结构型模式，也可以作为对象结构型模式</code>。在类适配器模式中，通过使用一个具体类将适配者适配到目标接口中;在对象适配器模<br>式中，一个适配器可以将多个不同的适配者适配到同一个目标。<br><code>桥接( bridge )模式</code>。桥接模式将抽象部分与它的实现部分分离，使它们都可以独立地变化。它是一种对象结构型模 式，又称为柄体<br>( handle and body )模式或接口( interface )模式。桥接模式类似于多重继承方案，但是多重继承方案往往违背了类的单一职责原则,其复<br>用性比较差，桥接模式是比多重继承方案更好的解决方法。<br><code>组合( composite )模式</code>。组合模式又称为整体部分( part-whole )模式，属于对象的结构模式。在组合模式中，通过组合多个对象形成树形结构以表示整体部分的结构层次。组合模式对单个对象(即叶子对象)和组合对象(即容器对象)的使用具有一致性。<br><code>装饰( decorator )模式</code>。装饰模式是一种对象结构型模式，可动态地给一个对象增加一些额外的职责，就增加对象功能来说 ，装饰模式比生成子类实现更为灵活。通过装饰模式，可以在不影响其他对象的情况下，以动态、透明的方式给单个对象添加职责;当需要动态地给一个对象增加功能，这些功能可以再动态地被撤销时可使用装饰模式;当不能采用生成子类的方法进行扩充时也可使用装饰模式。</p></blockquote><p>[单选题]<br>( )不是单元测试主要检查的内容。<br>问题1选项<br>OA模块接口<br>O B局部数据结构<br>O C.全局数据结构<br>O D.重要的执行路径</p><blockquote><p>单元测试测试以下内容:<code>模块接口，局部数据结构，执行路径，错误处理和边界</code>。<br>在单元测试开始时，应该对通过所有被测模块的数据流进行测试。<br>①输入参数是否与形式参数是否一致。<br>②调用模块的实参与被调用模块形参是否一致。<br>③全局变量在各模块中的定义和用法是否-致<br>④外部输入、输出等等。</p></blockquote><p>下面关于防火墙的说法,正确的是( )。<br>问题1选项<br>OA防火墙一般由软件以及支持该软件运行的硬件系统构成<br>O B.防火墙只能防止未经授权的信息发送到内网<br>O C防火墙能准确地检测出攻击来自哪一台计算机<br>O D.防火墙的主要支撑技术是加密技术</p><blockquote><p>防火墙一般由软件以及支持该软件运行的硬件系统构成;能控制经过防火墙的双向信息,而不仅仅是某个方向的信息:防火墙可以过滤一些网络攻击，但一般<code>无法定位攻击</code>。<code>防火墙的主要支撑技术是包过滤技术</code>。</p></blockquote><blockquote><p>计算机中能存放和处理的是数字信息，对于模拟视频信号要在计算机中进行处理，首先就要将这种<code>模拟信号转换为数字信号，即A/D变换</code>。</p></blockquote><blockquote><p>生成器模式将一个复杂对象的构建与它的表示分离,使得同样的构建过程可以创建不同的表示。<br>实用范围:<br>1当创建复杂对象的算法应该独立于该对象的组成部分以及它们的装配方式时。<br>2当构造过程必须允许被构造的对象有不同表示时。</p></blockquote><blockquote><p>“ &lt; title style=”italic” &gt; science  “是一个XML元素的定义，其中<br>title是元素标记名称;<br>style是元素标记属性名称;<br>italic是元素标记属性值;<br>science是元素内容。</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 每日任务 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>打卡第十二天</title>
+      <link href="2021/05/22/da-qia-di-shi-er-tian/"/>
+      <url>2021/05/22/da-qia-di-shi-er-tian/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p><a href="https://www.mingyantong.com/ju/554321">真正的大师,永远都怀着一颗学徒的心。</a>——<a href="https://www.mingyantong.com/writer/103824">无极剑圣</a> 《<a href="https://www.mingyantong.com/article/40177">英雄联盟</a>》</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 每日任务 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>打卡第十一天</title>
       <link href="2021/05/21/da-qia-di-shi-yi-tian/"/>
       <url>2021/05/21/da-qia-di-shi-yi-tian/</url>
