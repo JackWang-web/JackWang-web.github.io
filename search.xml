@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>打卡第十六天</title>
+      <link href="2021/05/26/da-qia-di-shi-liu-tian/"/>
+      <url>2021/05/26/da-qia-di-shi-liu-tian/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>心语分享:<br>如果一个人张口闭口都是他朋友如何如何厉害那一定是自己本身没什么可以炫耀的了。</p></blockquote><p><img src="/imgs/image-20210526082331371.png" alt="image-20210526082331371"></p><h3 id="软件设计师错题"><a href="#软件设计师错题" class="headerlink" title="软件设计师错题"></a>软件设计师错题</h3><p>[单选题]若系统在将( ) 文件修改的结果写回磁盘时发生崩溃，则对系统的影响相对较大。<br>问题1选项<br>OA目录<br>O B.空闲块<br>OC.用户程序<br>OD.用户数据</p><blockquote><p>试题解析:<br><code>系统目录就是指操作系统的主要文件存放的目录,目录中的文件直接影响到系统是否正常工作</code>。</p></blockquote><blockquote><p>信号量的取值范围</p></blockquote><p>[单选题]假设系统采用PV操作实现进程同步与互斥。若n个进程共享两台打印机，那么信号量S的取值范围为( ) 。<br>问题1选项<br>OA.-2<del>n<br>OB.-(n-1)</del>1<br>OC.-(n-1)<del>2<br>OD.-(n-2)</del>2</p><blockquote><p>试题解析:有两台打印机,故信号量初值为2。前两个进程请求能够满足。当有进程运行时,其他进程访问信号量,信号量就会减一 , n个进程同时请求<br>两台打印机时为n-2。</p></blockquote><blockquote><p>编程语言所属种类</p><p><code>C++ </code>:是在C语言的基础上发展起来的，主要增加了类的功能，使其成为<code>面向对象的程序设计语言</code>。<br><code>Prolog</code> :是以特殊的逻辑推理形式回答用户的查询，它建立在关系理论和一阶谓词理论基础上。<code>经常用于数据库和专家系统</code>。<br><code>Python</code> :是一种<code>面向对象、解释型计算机程序设计语言</code>，由Guido van Rossum于1989年底发明，第一个公开发行版发行于1991年。 Python<br>语法简洁而清晰，具有丰富和强大的类库。它常被昵称为胶水语言， 它能够把用其他语言制作的各种模块(尤其是C/C++ )很轻松地联结在一起。<br><code>C语言</code>:<code>编译型语言。</code></p></blockquote><p>选择：第一趟最小值排最前面<br>冒泡：第一趟最大值排最后面<br>归并：第一趟第i个元素与第i＋1个元素之间从小到大排列，i等于1。。。n<br>快速：第一趟排序选定的标准值（一般默认取数组第一个元素），左边的小于等于标准值，右边的大于标准值</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 每日任务 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>打卡第十五天</title>
       <link href="2021/05/25/da-qia-di-shi-wu-tian/"/>
       <url>2021/05/25/da-qia-di-shi-wu-tian/</url>

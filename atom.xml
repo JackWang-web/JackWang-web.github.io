@@ -6,7 +6,7 @@
   <link href="https://jackwang-web.github.io/atom.xml" rel="self"/>
   
   <link href="https://jackwang-web.github.io/"/>
-  <updated>2021-05-25T01:02:56.359Z</updated>
+  <updated>2021-05-26T01:21:34.030Z</updated>
   <id>https://jackwang-web.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>打卡第十六天</title>
+    <link href="https://jackwang-web.github.io/2021/05/26/da-qia-di-shi-liu-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/26/da-qia-di-shi-liu-tian/</id>
+    <published>2021-05-26T00:20:22.000Z</published>
+    <updated>2021-05-26T01:21:34.030Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;心语分享:&lt;br&gt;如果一个人张口闭口都是他朋友如何如何厉害那一定是自己本身没什么可以炫耀的了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/imgs/image-20210526082331371.png&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="每日任务" scheme="https://jackwang-web.github.io/tags/%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>打卡第十五天</title>
@@ -504,27 +530,6 @@
     
     
     <category term="感悟" scheme="https://jackwang-web.github.io/tags/%E6%84%9F%E6%82%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://jackwang-web.github.io/2021/05/04/hello-world/"/>
-    <id>https://jackwang-web.github.io/2021/05/04/hello-world/</id>
-    <published>2021-05-04T07:10:12.401Z</published>
-    <updated>2021-05-12T23:41:01.890Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
