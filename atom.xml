@@ -6,7 +6,7 @@
   <link href="https://jackwang-web.github.io/atom.xml" rel="self"/>
   
   <link href="https://jackwang-web.github.io/"/>
-  <updated>2021-05-27T06:53:39.470Z</updated>
+  <updated>2022-02-09T11:45:38.794Z</updated>
   <id>https://jackwang-web.github.io/</id>
   
   <author>
@@ -17,9 +17,92 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>网络编程</title>
+    <link href="https://jackwang-web.github.io/2022/02/09/springboot/websock/"/>
+    <id>https://jackwang-web.github.io/2022/02/09/springboot/websock/</id>
+    <published>2022-02-09T11:44:39.000Z</published>
+    <updated>2022-02-09T11:45:38.794Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;测试&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/imgs/image-20210518082511690.png&quot; alt=&quot;image-20210518082511690&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    
+    <category term="springboot" scheme="https://jackwang-web.github.io/tags/springboot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>四级第一天</title>
+    <link href="https://jackwang-web.github.io/2021/05/31/si-ji-ji-ruan-kao/si-ji-di-yi-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/31/si-ji-ji-ruan-kao/si-ji-di-yi-tian/</id>
+    <published>2021-05-30T23:27:41.000Z</published>
+    <updated>2021-05-30T23:32:37.884Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;做自己而被人讨厌，好过做别人来招人喜欢。  ——纪德&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;作文：&lt;br&gt;1.每天精做一个作文题&lt;br&gt;        掐表做题，25min内完成&lt;br&gt;       </summary>
+        
+      
+    
+    
+    
+    
+    <category term="四级" scheme="https://jackwang-web.github.io/tags/%E5%9B%9B%E7%BA%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>打卡第十八天</title>
+    <link href="https://jackwang-web.github.io/2021/05/28/si-ji-ji-ruan-kao/da-qia-di-shi-ba-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/28/si-ji-ji-ruan-kao/da-qia-di-shi-ba-tian/</id>
+    <published>2021-05-28T00:15:25.000Z</published>
+    <updated>2021-05-28T08:33:19.881Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;今天是考前一天，主要是复习，挣扎一下算法题&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;1.做每日一练&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;2.复习本站所有题目&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;3.复习有道笔记题目&lt;/p&gt;
+&lt;p&gt;​   </summary>
+        
+      
+    
+    
+    
+    
+    <category term="每日任务" scheme="https://jackwang-web.github.io/tags/%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
     <title>打卡第十七天</title>
-    <link href="https://jackwang-web.github.io/2021/05/27/da-qia-di-shi-qi-tian/"/>
-    <id>https://jackwang-web.github.io/2021/05/27/da-qia-di-shi-qi-tian/</id>
+    <link href="https://jackwang-web.github.io/2021/05/27/si-ji-ji-ruan-kao/da-qia-di-shi-qi-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/27/si-ji-ji-ruan-kao/da-qia-di-shi-qi-tian/</id>
     <published>2021-05-27T06:30:34.000Z</published>
     <updated>2021-05-27T06:53:39.470Z</updated>
     
@@ -46,8 +129,8 @@
   
   <entry>
     <title>打卡第十六天</title>
-    <link href="https://jackwang-web.github.io/2021/05/26/da-qia-di-shi-liu-tian/"/>
-    <id>https://jackwang-web.github.io/2021/05/26/da-qia-di-shi-liu-tian/</id>
+    <link href="https://jackwang-web.github.io/2021/05/26/si-ji-ji-ruan-kao/da-qia-di-shi-liu-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/26/si-ji-ji-ruan-kao/da-qia-di-shi-liu-tian/</id>
     <published>2021-05-26T00:20:22.000Z</published>
     <updated>2021-05-26T01:21:34.030Z</updated>
     
@@ -72,8 +155,8 @@
   
   <entry>
     <title>打卡第十五天</title>
-    <link href="https://jackwang-web.github.io/2021/05/25/da-qia-di-shi-wu-tian/"/>
-    <id>https://jackwang-web.github.io/2021/05/25/da-qia-di-shi-wu-tian/</id>
+    <link href="https://jackwang-web.github.io/2021/05/25/si-ji-ji-ruan-kao/da-qia-di-shi-wu-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/25/si-ji-ji-ruan-kao/da-qia-di-shi-wu-tian/</id>
     <published>2021-05-25T00:16:07.000Z</published>
     <updated>2021-05-25T01:02:56.359Z</updated>
     
@@ -96,8 +179,8 @@
   
   <entry>
     <title>打卡第十四天</title>
-    <link href="https://jackwang-web.github.io/2021/05/24/da-qia-di-shi-si-tian/"/>
-    <id>https://jackwang-web.github.io/2021/05/24/da-qia-di-shi-si-tian/</id>
+    <link href="https://jackwang-web.github.io/2021/05/24/si-ji-ji-ruan-kao/da-qia-di-shi-si-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/24/si-ji-ji-ruan-kao/da-qia-di-shi-si-tian/</id>
     <published>2021-05-24T00:04:24.000Z</published>
     <updated>2021-05-24T06:29:02.161Z</updated>
     
@@ -122,8 +205,8 @@
   
   <entry>
     <title>打卡第十三天</title>
-    <link href="https://jackwang-web.github.io/2021/05/23/da-qia-di-shi-san-tian/"/>
-    <id>https://jackwang-web.github.io/2021/05/23/da-qia-di-shi-san-tian/</id>
+    <link href="https://jackwang-web.github.io/2021/05/23/si-ji-ji-ruan-kao/da-qia-di-shi-san-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/23/si-ji-ji-ruan-kao/da-qia-di-shi-san-tian/</id>
     <published>2021-05-23T00:22:30.000Z</published>
     <updated>2021-05-23T05:13:40.901Z</updated>
     
@@ -148,8 +231,8 @@
   
   <entry>
     <title>打卡第十二天</title>
-    <link href="https://jackwang-web.github.io/2021/05/22/da-qia-di-shi-er-tian/"/>
-    <id>https://jackwang-web.github.io/2021/05/22/da-qia-di-shi-er-tian/</id>
+    <link href="https://jackwang-web.github.io/2021/05/22/si-ji-ji-ruan-kao/da-qia-di-shi-er-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/22/si-ji-ji-ruan-kao/da-qia-di-shi-er-tian/</id>
     <published>2021-05-22T05:42:12.000Z</published>
     <updated>2021-05-23T00:22:15.505Z</updated>
     
@@ -172,8 +255,8 @@
   
   <entry>
     <title>打卡第十一天</title>
-    <link href="https://jackwang-web.github.io/2021/05/21/da-qia-di-shi-yi-tian/"/>
-    <id>https://jackwang-web.github.io/2021/05/21/da-qia-di-shi-yi-tian/</id>
+    <link href="https://jackwang-web.github.io/2021/05/21/si-ji-ji-ruan-kao/da-qia-di-shi-yi-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/21/si-ji-ji-ruan-kao/da-qia-di-shi-yi-tian/</id>
     <published>2021-05-21T00:19:15.000Z</published>
     <updated>2021-05-21T01:04:52.811Z</updated>
     
@@ -196,8 +279,8 @@
   
   <entry>
     <title>打卡第十天</title>
-    <link href="https://jackwang-web.github.io/2021/05/20/da-qia-di-shi-tian/"/>
-    <id>https://jackwang-web.github.io/2021/05/20/da-qia-di-shi-tian/</id>
+    <link href="https://jackwang-web.github.io/2021/05/20/si-ji-ji-ruan-kao/da-qia-di-shi-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/20/si-ji-ji-ruan-kao/da-qia-di-shi-tian/</id>
     <published>2021-05-20T00:27:05.000Z</published>
     <updated>2021-05-20T05:39:00.435Z</updated>
     
@@ -221,8 +304,8 @@
   
   <entry>
     <title>打卡第九天</title>
-    <link href="https://jackwang-web.github.io/2021/05/19/da-qia-di-jiu-tian/"/>
-    <id>https://jackwang-web.github.io/2021/05/19/da-qia-di-jiu-tian/</id>
+    <link href="https://jackwang-web.github.io/2021/05/19/si-ji-ji-ruan-kao/da-qia-di-jiu-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/19/si-ji-ji-ruan-kao/da-qia-di-jiu-tian/</id>
     <published>2021-05-19T00:17:11.000Z</published>
     <updated>2021-05-19T10:14:02.931Z</updated>
     
@@ -247,8 +330,8 @@
   
   <entry>
     <title>打卡第八天</title>
-    <link href="https://jackwang-web.github.io/2021/05/18/da-qia-di-ba-tian/"/>
-    <id>https://jackwang-web.github.io/2021/05/18/da-qia-di-ba-tian/</id>
+    <link href="https://jackwang-web.github.io/2021/05/18/si-ji-ji-ruan-kao/da-qia-di-ba-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/18/si-ji-ji-ruan-kao/da-qia-di-ba-tian/</id>
     <published>2021-05-18T00:12:57.000Z</published>
     <updated>2021-05-18T15:52:20.743Z</updated>
     
@@ -273,9 +356,36 @@
   </entry>
   
   <entry>
+    <title>打卡第八天</title>
+    <link href="https://jackwang-web.github.io/2021/05/18/da-qia-di-ba-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/18/da-qia-di-ba-tian/</id>
+    <published>2021-05-18T00:12:57.000Z</published>
+    <updated>2022-02-09T11:50:11.986Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/imgs/image-20210518082511690.png&quot; alt=&quot;image-20210518082511690&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    
+    <category term="每日任务" scheme="https://jackwang-web.github.io/tags/%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
     <title>打卡第七天</title>
-    <link href="https://jackwang-web.github.io/2021/05/17/da-qia-di-qi-tian/"/>
-    <id>https://jackwang-web.github.io/2021/05/17/da-qia-di-qi-tian/</id>
+    <link href="https://jackwang-web.github.io/2021/05/17/si-ji-ji-ruan-kao/da-qia-di-qi-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/17/si-ji-ji-ruan-kao/da-qia-di-qi-tian/</id>
     <published>2021-05-17T00:46:02.000Z</published>
     <updated>2021-05-17T02:01:15.541Z</updated>
     
@@ -300,8 +410,8 @@
   
   <entry>
     <title>打卡第六天</title>
-    <link href="https://jackwang-web.github.io/2021/05/16/da-qia-di-liu-tian/"/>
-    <id>https://jackwang-web.github.io/2021/05/16/da-qia-di-liu-tian/</id>
+    <link href="https://jackwang-web.github.io/2021/05/16/si-ji-ji-ruan-kao/da-qia-di-liu-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/16/si-ji-ji-ruan-kao/da-qia-di-liu-tian/</id>
     <published>2021-05-15T23:22:17.000Z</published>
     <updated>2021-05-16T13:20:55.442Z</updated>
     
@@ -326,8 +436,8 @@
   
   <entry>
     <title>打卡第五天</title>
-    <link href="https://jackwang-web.github.io/2021/05/15/da-qia-di-wu-tian/"/>
-    <id>https://jackwang-web.github.io/2021/05/15/da-qia-di-wu-tian/</id>
+    <link href="https://jackwang-web.github.io/2021/05/15/si-ji-ji-ruan-kao/da-qia-di-wu-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/15/si-ji-ji-ruan-kao/da-qia-di-wu-tian/</id>
     <published>2021-05-14T22:37:30.000Z</published>
     <updated>2021-05-15T15:32:29.063Z</updated>
     
@@ -355,10 +465,10 @@
   
   <entry>
     <title>打卡第四天</title>
-    <link href="https://jackwang-web.github.io/2021/05/14/da-qia-di-si-tian/"/>
-    <id>https://jackwang-web.github.io/2021/05/14/da-qia-di-si-tian/</id>
+    <link href="https://jackwang-web.github.io/2021/05/14/si-ji-ji-ruan-kao/da-qia-di-si-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/14/si-ji-ji-ruan-kao/da-qia-di-si-tian/</id>
     <published>2021-05-13T22:44:08.000Z</published>
-    <updated>2021-05-14T10:39:27.073Z</updated>
+    <updated>2021-05-14T10:43:47.233Z</updated>
     
     
       
@@ -381,8 +491,8 @@
   
   <entry>
     <title>打卡第三天</title>
-    <link href="https://jackwang-web.github.io/2021/05/13/da-qia-di-san-tian/"/>
-    <id>https://jackwang-web.github.io/2021/05/13/da-qia-di-san-tian/</id>
+    <link href="https://jackwang-web.github.io/2021/05/13/si-ji-ji-ruan-kao/da-qia-di-san-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/13/si-ji-ji-ruan-kao/da-qia-di-san-tian/</id>
     <published>2021-05-12T23:59:00.000Z</published>
     <updated>2021-05-13T02:49:00.044Z</updated>
     
@@ -407,8 +517,8 @@
   
   <entry>
     <title>打卡第二天</title>
-    <link href="https://jackwang-web.github.io/2021/05/12/da-qia-di-er-tian/"/>
-    <id>https://jackwang-web.github.io/2021/05/12/da-qia-di-er-tian/</id>
+    <link href="https://jackwang-web.github.io/2021/05/12/si-ji-ji-ruan-kao/da-qia-di-er-tian/"/>
+    <id>https://jackwang-web.github.io/2021/05/12/si-ji-ji-ruan-kao/da-qia-di-er-tian/</id>
     <published>2021-05-11T23:45:19.000Z</published>
     <updated>2021-05-12T23:42:06.966Z</updated>
     
@@ -427,111 +537,6 @@
     
     
     <category term="每日任务" scheme="https://jackwang-web.github.io/tags/%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>打卡第一天</title>
-    <link href="https://jackwang-web.github.io/2021/05/11/jin-ri-ren-wu/"/>
-    <id>https://jackwang-web.github.io/2021/05/11/jin-ri-ren-wu/</id>
-    <published>2021-05-11T00:19:33.000Z</published>
-    <updated>2021-05-12T23:52:03.504Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="每日任务" scheme="https://jackwang-web.github.io/tags/%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我想带你一起蜕变！你准备好了吗？</title>
-    <link href="https://jackwang-web.github.io/2021/05/10/wo-xiang-dai-ni-yi-qi-shui-bian-ni-zhun-bei-hao-liao-ma/"/>
-    <id>https://jackwang-web.github.io/2021/05/10/wo-xiang-dai-ni-yi-qi-shui-bian-ni-zhun-bei-hao-liao-ma/</id>
-    <published>2021-05-10T12:54:25.000Z</published>
-    <updated>2021-05-11T00:17:40.979Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;自律不是自虐,而是建立一种生活认知和习惯。当自律成为你的属性时一切都会变得简单起来。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;从现在自律起来，一切交给时间，总有一天会站在曾经想要去的地方。&lt;/p&gt;
-&lt;/blockquot</summary>
-        
-      
-    
-    
-    
-    <category term="生活" scheme="https://jackwang-web.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-    <category term="自律" scheme="https://jackwang-web.github.io/tags/%E8%87%AA%E5%BE%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>软件设计师中级下午题总结</title>
-    <link href="https://jackwang-web.github.io/2021/05/06/ruan-jian-she-ji-shi-zhong-ji-xia-wu-ti-zong-jie/"/>
-    <id>https://jackwang-web.github.io/2021/05/06/ruan-jian-she-ji-shi-zhong-ji-xia-wu-ti-zong-jie/</id>
-    <published>2021-05-06T02:12:04.000Z</published>
-    <updated>2021-05-25T06:36:45.869Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;h2 id=&quot;软件设计考点及分数说明&quot;&gt;&lt;a href=&quot;#软件设计考点及分数说明&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="软件设计师中级" scheme="https://jackwang-web.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E5%B8%88%E4%B8%AD%E7%BA%A7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>软件设计师中级上午题总结</title>
-    <link href="https://jackwang-web.github.io/2021/05/06/ruan-jian-she-ji-shi-zhong-ji-shang-wu-ti-zong-jie/"/>
-    <id>https://jackwang-web.github.io/2021/05/06/ruan-jian-she-ji-shi-zhong-ji-shang-wu-ti-zong-jie/</id>
-    <published>2021-05-06T02:12:04.000Z</published>
-    <updated>2021-05-24T05:46:38.052Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;“广记不如淡墨”，谚语，意思是死记不如用笔写下来。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;1-McCabe度量法求环路复杂度&quot;&gt;&lt;a href=&quot;#1-McCabe度量法求环路复杂度&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="考试" scheme="https://jackwang-web.github.io/categories/%E8%80%83%E8%AF%95/"/>
-    
-    
-    <category term="软件设计师中级" scheme="https://jackwang-web.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E5%B8%88%E4%B8%AD%E7%BA%A7/"/>
     
   </entry>
   

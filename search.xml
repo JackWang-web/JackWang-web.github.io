@@ -4,9 +4,66 @@
   
     
     <entry>
+      <title>网络编程</title>
+      <link href="2022/02/09/springboot/websock/"/>
+      <url>2022/02/09/springboot/websock/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>测试</p></blockquote><p><img src="/imgs/image-20210518082511690.png" alt="image-20210518082511690"></p><blockquote><h3 id><a href="#" class="headerlink" title></a></h3></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> springboot </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>四级第一天</title>
+      <link href="2021/05/31/si-ji-ji-ruan-kao/si-ji-di-yi-tian/"/>
+      <url>2021/05/31/si-ji-ji-ruan-kao/si-ji-di-yi-tian/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>做自己而被人讨厌，好过做别人来招人喜欢。  ——纪德</p></blockquote><blockquote><p>作文：<br>1.每天精做一个作文题<br>        掐表做题，25min内完成<br>        从答案摘抄2-3个句子<br>2.泛做3篇作文题<br>        先看题目，构思3min<br>        直接看答案，和自己构思的对比<br>————————————————————<br>翻译：<br>1.大量阅读翻译题<br>2.每天看3篇同类翻译题<br>通过标准答案总结：固定搭配，词组<br>————————————————————<br>听力：<br>1.找3套听力真题精听（找到听力原文，反复听，直到每个单词都认识为止）<br>2.泛听其他题<br>————————————————————<br>阅读：<br>1.选词填空：每天一套题，背单词<br>2.段落匹配：慢速练习，熟练后加快做题速度<br>3.仔细阅读：习惯复习<br>————————————————————<br>背单词：<br>从核心词汇/高频词汇开始背<br>通过试卷背单词</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 四级 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>打卡第十八天</title>
+      <link href="2021/05/28/si-ji-ji-ruan-kao/da-qia-di-shi-ba-tian/"/>
+      <url>2021/05/28/si-ji-ji-ruan-kao/da-qia-di-shi-ba-tian/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>今天是考前一天，主要是复习，挣扎一下算法题</p><p><code>1.做每日一练</code></p><p><code>2.复习本站所有题目</code></p><p>3.复习有道笔记题目</p><p>​    一共6讲</p><pre><code> `1=2=3`=4=5=6</code></pre><p>4.看一些算法题，历年</p><p>6看一本通</p><p>7.<code>模糊的地方，看冲刺视屏</code>，梦巴黎</p></blockquote><blockquote><p><code>有限自动机</code>是进行<code>词法分析</code>的工具。</p></blockquote><blockquote><p>目标代码生成时才考虑与具体机器相关的处理,<code>寄存器分配处于代码生成阶段的工作</code>。</p></blockquote><p><img src="/imgs/image-20210528084558884.png" alt="image-20210528084558884"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 每日任务 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>打卡第十七天</title>
-      <link href="2021/05/27/da-qia-di-shi-qi-tian/"/>
-      <url>2021/05/27/da-qia-di-shi-qi-tian/</url>
+      <link href="2021/05/27/si-ji-ji-ruan-kao/da-qia-di-shi-qi-tian/"/>
+      <url>2021/05/27/si-ji-ji-ruan-kao/da-qia-di-shi-qi-tian/</url>
       
         <content type="html"><![CDATA[<blockquote></blockquote><blockquote><p>覆盖:子类重写父类的方法。(<code>相同的方法在子类中重新写了一遍</code>)<br>重载:一个类可以有多个同名而参数类型不同的方法。</p></blockquote><p><img src="/imgs/image-20210527144734725.png" alt="image-20210527144734725"></p><blockquote><p>时间复杂度不会计算</p></blockquote><p><img src="/imgs/image-20210527145033107.png" alt="image-20210527145033107"></p><blockquote><p>运行相同功能函数迭代的效率比递归高</p></blockquote><p><img src="/imgs/image-20210527145326208.png" alt="image-20210527145326208"></p>]]></content>
       
@@ -24,8 +81,8 @@
     
     <entry>
       <title>打卡第十六天</title>
-      <link href="2021/05/26/da-qia-di-shi-liu-tian/"/>
-      <url>2021/05/26/da-qia-di-shi-liu-tian/</url>
+      <link href="2021/05/26/si-ji-ji-ruan-kao/da-qia-di-shi-liu-tian/"/>
+      <url>2021/05/26/si-ji-ji-ruan-kao/da-qia-di-shi-liu-tian/</url>
       
         <content type="html"><![CDATA[<blockquote><p>心语分享:<br>如果一个人张口闭口都是他朋友如何如何厉害那一定是自己本身没什么可以炫耀的了。</p></blockquote><p><img src="/imgs/image-20210526082331371.png" alt="image-20210526082331371"></p><h3 id="软件设计师错题"><a href="#软件设计师错题" class="headerlink" title="软件设计师错题"></a>软件设计师错题</h3><p>[单选题]若系统在将( ) 文件修改的结果写回磁盘时发生崩溃，则对系统的影响相对较大。<br>问题1选项<br>OA目录<br>O B.空闲块<br>OC.用户程序<br>OD.用户数据</p><blockquote><p>试题解析:<br><code>系统目录就是指操作系统的主要文件存放的目录,目录中的文件直接影响到系统是否正常工作</code>。</p></blockquote><blockquote><p>信号量的取值范围</p></blockquote><p>[单选题]假设系统采用PV操作实现进程同步与互斥。若n个进程共享两台打印机，那么信号量S的取值范围为( ) 。<br>问题1选项<br>OA.-2<del>n<br>OB.-(n-1)</del>1<br>OC.-(n-1)<del>2<br>OD.-(n-2)</del>2</p><blockquote><p>试题解析:有两台打印机,故信号量初值为2。前两个进程请求能够满足。当有进程运行时,其他进程访问信号量,信号量就会减一 , n个进程同时请求<br>两台打印机时为n-2。</p></blockquote><blockquote><p>编程语言所属种类</p><p><code>C++ </code>:是在C语言的基础上发展起来的，主要增加了类的功能，使其成为<code>面向对象的程序设计语言</code>。<br><code>Prolog</code> :是以特殊的逻辑推理形式回答用户的查询，它建立在关系理论和一阶谓词理论基础上。<code>经常用于数据库和专家系统</code>。<br><code>Python</code> :是一种<code>面向对象、解释型计算机程序设计语言</code>，由Guido van Rossum于1989年底发明，第一个公开发行版发行于1991年。 Python<br>语法简洁而清晰，具有丰富和强大的类库。它常被昵称为胶水语言， 它能够把用其他语言制作的各种模块(尤其是C/C++ )很轻松地联结在一起。<br><code>C语言</code>:<code>编译型语言。</code></p></blockquote><p>选择：第一趟最小值排最前面<br>冒泡：第一趟最大值排最后面<br>归并：第一趟第i个元素与第i＋1个元素之间从小到大排列，i等于1。。。n<br>快速：第一趟排序选定的标准值（一般默认取数组第一个元素），左边的小于等于标准值，右边的大于标准值</p>]]></content>
       
@@ -43,8 +100,8 @@
     
     <entry>
       <title>打卡第十五天</title>
-      <link href="2021/05/25/da-qia-di-shi-wu-tian/"/>
-      <url>2021/05/25/da-qia-di-shi-wu-tian/</url>
+      <link href="2021/05/25/si-ji-ji-ruan-kao/da-qia-di-shi-wu-tian/"/>
+      <url>2021/05/25/si-ji-ji-ruan-kao/da-qia-di-shi-wu-tian/</url>
       
         <content type="html"><![CDATA[<p>『每日知文推送』有哪些细微但是高效有用的习惯（如图） </p><p><img src="/imgs/image-20210525081753297.png" alt="image-20210525081753297"></p><blockquote><p>“<code>用户需求不清晰</code>且经常发生变化”有<code>原型化方法适用</code>.</p><p><code>数据处理领域问题</code>“ <code>结构化方法</code>的基本特征是:自顶向下，逐层分解，也适合于大型的数据处理系统，所以用他最台适。</p></blockquote><blockquote><p>试题解析:</p><p>编译程序的功能是 从源代码(通常为高级语言)到能直接被计算机或虚拟机执行的目标代码(汇编语言或机器语言)的翻译过程。</p><p>工作过程<br>分为6个阶段:词法分析、语法分析、语义分析、中间代码生成、代码优化、目标代码生成。<br>各个阶段逻辑上可以分为前端和后端。</p><p>前端主要负责解析输入的源代码，由语法分析器和语意分析器协同工作。语法分析器负责把源代码中的‘单词找出来，语义分析器把这些分散的单词按预先定义好的语法组装成有意义的表达式、语句、函数等等。前端还负责语义的检查，例如<br>检测参与运算的变量是否是同一类型的 ,简单的错误处理。最终的结果常常是一个抽象的语法树 ，这样后端可以在此基础上进一步优化处理。<br>后端编译器后端主要负责分析，优化中间代码以及生成机器代码。<br><code>对于声明语句，需要记录符号信息，因此应该填入合理组织的符号表，而对于可执行语句，需 要翻译成中间代码或目标代码。</code></p></blockquote><blockquote><p>表达式符号不熟悉</p></blockquote><p><img src="/imgs/image-20210525085807835.png" alt="image-20210525085807835"></p><blockquote><p>动能需求:定时功能</p><p>非功能需求:提高系统响应时间</p></blockquote><blockquote><p>在CMM的不同等级有不同的核心。</p><p>2在可重复级,建立了基本的项目管理过程和实践来跟踪项目费用、<br>进度和功能特性。</p><p>3在已定义级，所有项目都采用根据实际情况修改后得到的标准软件过程来开发和维护软件。</p><p>4在已管理级，收集对软件过程和产品质量的详细度量,对软件过程和产品都有定量的理解与控制。</p><p>5在优化级,过程的量化反馈和先进的新思想、新技术促使过程不断改进。</p></blockquote>]]></content>
       
@@ -62,8 +119,8 @@
     
     <entry>
       <title>打卡第十四天</title>
-      <link href="2021/05/24/da-qia-di-shi-si-tian/"/>
-      <url>2021/05/24/da-qia-di-shi-si-tian/</url>
+      <link href="2021/05/24/si-ji-ji-ruan-kao/da-qia-di-shi-si-tian/"/>
+      <url>2021/05/24/si-ji-ji-ruan-kao/da-qia-di-shi-si-tian/</url>
       
         <content type="html"><![CDATA[<blockquote><p>心语分享:时间不仅让你看透别人，也让你认清自己。很多时候，就是在跌跌拌拌中，我们学会了生活。</p></blockquote><p><img src="/imgs/image-20210524080904816.png" alt="image-20210524080904816"></p><h3 id="软件设计师"><a href="#软件设计师" class="headerlink" title="软件设计师"></a>软件设计师</h3><p>维护类型概念不清楚：</p><blockquote><p>系统维护类型：</p><p>1改正性维护：系统发布前的BUG</p><p>2适应性维护：环境因素</p><p>3预防性维护：现在未影响，修改将来可能出现的错误</p><p>4完善性维护：扩充或增加功能 改善性能</p></blockquote><p><img src="/imgs/image-20210524085400538.png" alt="image-20210524085400538"></p><p>树的高度概念模糊：是整棵树的深度？</p><blockquote><p>二叉树的层数是树的高度,A是第一层</p></blockquote><p>已知某二叉树的中序存列为CBDAEFI、先序序列为ABCDEFI，则在二又树的商度为().<br>问题1选项<br>OA2<br>OB.3<br>OC.4<br>OD.5<br>参考答案:C<br>你的答案: B</p><p><img src="/imgs/image-20210524084252780.png" alt="image-20210524084252780"></p><p>[单选题] SEI能力成熟度模型(SEICM把软件开发企业分为5个成熟度级别,其中( )重点关注产品和过程质量.<br>问题1选项<br>OA级别2 :重复级<br>O B.级别3 :确定级<br>OC.级别4 :管理级<br>O D.级别5 :优化级<br>参考答案: C<br><img src="/imgs/image-20210524084834683.png" alt="image-20210524084834683"></p><blockquote><p>入队序列与出队序列关系为1:1，而入栈序列与出栈序列关系为1:n (n≥1 )。</p></blockquote><blockquote><p>瀑布模型：开发过程严格</p><p>V模型：典型的测试模型</p><p>原型模型：适用于需求不够明确的项目，能有效的捕捉系统需求</p><p>螺旋模型：综合和瀑布模型和演化模型，还增加了风险分析</p></blockquote><p><img src="/imgs/image-20210524141527176.png" alt="image-20210524141527176"></p><blockquote><p>最晚执行时间：使用关键路径减去作业的起始时间就是最晚开始时间</p></blockquote><p><img src="/imgs/image-20210524142030633.png" alt="image-20210524142030633"></p><p><img src="/imgs/image-20210524142415095.png" alt="image-20210524142415095"></p><blockquote><p>递归调用及返回处理必须使用栈结构</p></blockquote>]]></content>
       
@@ -81,8 +138,8 @@
     
     <entry>
       <title>打卡第十三天</title>
-      <link href="2021/05/23/da-qia-di-shi-san-tian/"/>
-      <url>2021/05/23/da-qia-di-shi-san-tian/</url>
+      <link href="2021/05/23/si-ji-ji-ruan-kao/da-qia-di-shi-san-tian/"/>
+      <url>2021/05/23/si-ji-ji-ruan-kao/da-qia-di-shi-san-tian/</url>
       
         <content type="html"><![CDATA[<blockquote><p>你的压力来源于，无法自律只是假装努力，现状跟不上内心欲望，所以你焦虑甚至恐慌。</p></blockquote><p><img src="/imgs/image-20210523082437375.png" alt="image-20210523082437375"></p><h3 id="软件设计师1"><a href="#软件设计师1" class="headerlink" title="软件设计师1"></a>软件设计师1</h3><p><a href="https://uc.educity.cn/tiku/testReport.html?id=15985669">https://uc.educity.cn/tiku/testReport.html?id=15985669</a></p><p>[单选题]<br>在面向对象技术中，( ) 定义了超类和子类之间的关系，子类中以更具体的方式实现从父类继承来的方法称为( ) ， 不同类的对象通过( ) 相互通信。<br>问题1选项<br>OA覆盖<br>OB.继承<br>OC.消息<br>OD多态<br>问题2选项<br>OA覆盖<br>OB.继承<br>Oc.消息<br>OD多态<br>问题3选项<br>OA.覆盖<br>O B.继承<br>OC.消息<br>OD多态</p><blockquote><p><code>继承:</code>父类和子类之间共享数据的方法的机制。这是类之间的一种关系，在定义和实现一个类的时候，可以在一个已经存在的类的基础上来进行，把这个已经存在的类所定义的内容作为自己的内容，并加入若干新的内容。<br><code>消息:</code>对象之间进行通信的一种构造叫做消息。当一 个消息发送给某个对象时，包含要求接收对象去执行某些活动的信息。接收到信息的对象经过解释，然后予以响应。这种通信机制叫做消息传递。发送消启的对象不需要知道接收消息的对象如何对请求予以响应。<br><code>多态:</code>在收到消息时，对象要予以响应。不同的对象收到同一消息可以产生完全不同的结果，这一现象叫做多态。<br><code>覆盖:</code>如果从父类继承的方法不能满足子类的需求，可以对其进行改写,这个过程叫方法的覆盖( override )。</p></blockquote><p>[单选题]<br>下列设计模式中，( ) 模式既是类结构型模式，又是对象结构型模式。此模式与( ) 模式类似的特征是，都给另-一个对象提供了一定程度 上的间接性，都涉<br>及到从自身以外的一个接口向这个对象转发请求。<br>问题1选项<br>OA.桥接( Bridge )<br>O B.适配器( Adapter )<br>O C组成( Composite )<br>O D.装饰器( Decorator )<br>问题2选项<br>OA.桥接( Bridge )<br>O B.适配器( Adapter )<br>OC.组成( Composite )<br>O D.装饰器(Decorator)</p><blockquote><p><code>适配器( adapter)模式</code>。适配器模式将一个接转换成客户希望的另一个接口，从而使接口不兼容的那些类可以一起工作。<code>适配器模式既可以作为类结构型模式，也可以作为对象结构型模式</code>。在类适配器模式中，通过使用一个具体类将适配者适配到目标接口中;在对象适配器模<br>式中，一个适配器可以将多个不同的适配者适配到同一个目标。<br><code>桥接( bridge )模式</code>。桥接模式将抽象部分与它的实现部分分离，使它们都可以独立地变化。它是一种对象结构型模 式，又称为柄体<br>( handle and body )模式或接口( interface )模式。桥接模式类似于多重继承方案，但是多重继承方案往往违背了类的单一职责原则,其复<br>用性比较差，桥接模式是比多重继承方案更好的解决方法。<br><code>组合( composite )模式</code>。组合模式又称为整体部分( part-whole )模式，属于对象的结构模式。在组合模式中，通过组合多个对象形成树形结构以表示整体部分的结构层次。组合模式对单个对象(即叶子对象)和组合对象(即容器对象)的使用具有一致性。<br><code>装饰( decorator )模式</code>。装饰模式是一种对象结构型模式，可动态地给一个对象增加一些额外的职责，就增加对象功能来说 ，装饰模式比生成子类实现更为灵活。通过装饰模式，可以在不影响其他对象的情况下，以动态、透明的方式给单个对象添加职责;当需要动态地给一个对象增加功能，这些功能可以再动态地被撤销时可使用装饰模式;当不能采用生成子类的方法进行扩充时也可使用装饰模式。</p></blockquote><p>[单选题]<br>( )不是单元测试主要检查的内容。<br>问题1选项<br>OA模块接口<br>O B局部数据结构<br>O C.全局数据结构<br>O D.重要的执行路径</p><blockquote><p>单元测试测试以下内容:<code>模块接口，局部数据结构，执行路径，错误处理和边界</code>。<br>在单元测试开始时，应该对通过所有被测模块的数据流进行测试。<br>①输入参数是否与形式参数是否一致。<br>②调用模块的实参与被调用模块形参是否一致。<br>③全局变量在各模块中的定义和用法是否-致<br>④外部输入、输出等等。</p></blockquote><p>下面关于防火墙的说法,正确的是( )。<br>问题1选项<br>OA防火墙一般由软件以及支持该软件运行的硬件系统构成<br>O B.防火墙只能防止未经授权的信息发送到内网<br>O C防火墙能准确地检测出攻击来自哪一台计算机<br>O D.防火墙的主要支撑技术是加密技术</p><blockquote><p>防火墙一般由软件以及支持该软件运行的硬件系统构成;能控制经过防火墙的双向信息,而不仅仅是某个方向的信息:防火墙可以过滤一些网络攻击，但一般<code>无法定位攻击</code>。<code>防火墙的主要支撑技术是包过滤技术</code>。</p></blockquote><blockquote><p>计算机中能存放和处理的是数字信息，对于模拟视频信号要在计算机中进行处理，首先就要将这种<code>模拟信号转换为数字信号，即A/D变换</code>。</p></blockquote><blockquote><p>生成器模式将一个复杂对象的构建与它的表示分离,使得同样的构建过程可以创建不同的表示。<br>实用范围:<br>1当创建复杂对象的算法应该独立于该对象的组成部分以及它们的装配方式时。<br>2当构造过程必须允许被构造的对象有不同表示时。</p></blockquote><blockquote><p>“ &lt; title style=”italic” &gt; science  “是一个XML元素的定义，其中<br>title是元素标记名称;<br>style是元素标记属性名称;<br>italic是元素标记属性值;<br>science是元素内容。</p></blockquote><h3 id="软件设计师2"><a href="#软件设计师2" class="headerlink" title="软件设计师2"></a>软件设计师2</h3><p>已知模块A给模块B<code>传递数据结构</code>X ,则这两个模块的耦合类型为( ) 。<br>问题1选项<br>OA数据耦合<br>OB.公共耦合<br>OC.外部耦合<br>OD.标记耦合</p><blockquote><p><code>数据耦合</code>: 一个模块访问另一个模块时,彼此之间是通过<code>简单数据参数</code>(不是控制参数、公共数据结构或外部变量)来交换输入、输出信息的。<br><code>公共耦合</code>:若一组模块都访问同一个公共数据环境,则它们之间的耦合就称为公共耦合。公共的数据环境可以是全局数据结构、共享的通信区、内存的公共覆盖区等。<br><code>外部耦合:</code> 一组模块都<code>访问同一全局简单变量而不是同一全局数据结构</code>，而且不是通过参数表传递该全局变量的信息，则称之为外部耦合。<br><code>标记耦合:</code> 一组模块通过参数表传递记录信息，就是标记耦合。这个记录是<code>某一数据结构的子结构</code>，而不是简单变量。本题描述的是标记耦合。</p></blockquote><p>程序设计语言一般都提供多 种循环语句，例如实现先判断循环条件再执行循环体的while语句和先执行循环体再判断循环条件的do-while语句。关于这两种循<br>环语句，在不改变循环体的条件下，( )是正确的。<br>问题1选项<br>O A while语句的功能可由do-while语句实现<br>O B.do-while语句的功能可由while语句实现<br>O C.若已知循环体的次数,则只能使用while语句<br>O D.循环条件相同时, do-while语句的执行效率更高</p><blockquote><p>本题考查程序的控制结构。<br>do-while语句的形式为:<br>do<br>循环体语句;<br>while循环条件;<br>首先执行一次循环体语句(无条件地)， 若循环条件不成立，则结束do-while语句的执行:否则再一次执行循环体语句，即此后循环条件<br>每成立一次，循环体语句就执行1次。显然, do-while中的循环体语句至少执行1次。</p><p>while语句的形式为:<br>while循环条件<br>循环体语句:<br>其执行过程为:先判断循环条件，若不成立，则结束While语句的执行;否则执行一次循环体语句。此后,循环条件每成立- -次 ,循环体<br>语句就执行1次。显然，while中的循环体语句可能一次也不执行。<br>因此，在<code>不改变循环体的情况下，可用while语句来代替do-while语句，反之则不行</code>。</p></blockquote><p>确定软件的模块划分及模块之间的调用关系是( ) 阶段的任务。<br>问题1选项<br>OA.需求分析<br>O B.概要设计<br>O C.详细设计<br>OD.编码</p><blockquote><p><code>需求分析阶段的</code>任务主要是要解决<code>系统做什么的问题</code>,即弄清楚问题的要求,包括<code>需要输入什么数据，要得到什么结果,最后应输出什么</code>。<br><code>概要设计</code>的主要任务是把需求分析得到的结果转换为软件结构和数据结构，即<code>将一个复杂系统按功能进行模块划分</code>、建立模块的层次结构及调用关系、确定模块间的接口及人机界面、确定数据的结构特性、以及数据库的设计等。<br><code>详细设计</code>是在概要设计的基础上更细致的设计，它包括具体的<code>业务对象设计、功能逻辑设计、界面设计</code>等工作。详细设计是系统实现的依据，需要更多地考虑设计细节。<br>编码即编写程序代码，具体实现系统。</p></blockquote>]]></content>
       
@@ -100,8 +157,8 @@
     
     <entry>
       <title>打卡第十二天</title>
-      <link href="2021/05/22/da-qia-di-shi-er-tian/"/>
-      <url>2021/05/22/da-qia-di-shi-er-tian/</url>
+      <link href="2021/05/22/si-ji-ji-ruan-kao/da-qia-di-shi-er-tian/"/>
+      <url>2021/05/22/si-ji-ji-ruan-kao/da-qia-di-shi-er-tian/</url>
       
         <content type="html"><![CDATA[<blockquote><p><a href="https://www.mingyantong.com/ju/554321">真正的大师,永远都怀着一颗学徒的心。</a>——<a href="https://www.mingyantong.com/writer/103824">无极剑圣</a> 《<a href="https://www.mingyantong.com/article/40177">英雄联盟</a>》</p></blockquote>]]></content>
       
@@ -119,8 +176,8 @@
     
     <entry>
       <title>打卡第十一天</title>
-      <link href="2021/05/21/da-qia-di-shi-yi-tian/"/>
-      <url>2021/05/21/da-qia-di-shi-yi-tian/</url>
+      <link href="2021/05/21/si-ji-ji-ruan-kao/da-qia-di-shi-yi-tian/"/>
+      <url>2021/05/21/si-ji-ji-ruan-kao/da-qia-di-shi-yi-tian/</url>
       
         <content type="html"><![CDATA[<blockquote><p>公共耦合指通过一个公共数据环境相互作用的那些模块间的耦合。<br>控制耦合:两个模块彼此间传递的信息中有控制信息。<br>数据耦合:两个模块彼此间通过数据参数交换信息。<br>标记耦合:一组模块通过参数表传递记录信息，这个记录是某一个数据结构的子结构，而不是简单变量。<br>在数据库逻辑设计阶段：需求阶段形成的<code>需求说明文档、数据字典和数据流图</code>作为逻辑设计的依据。</p><p>多对多需要增加新的关系模式，多对一不需要增加新的关系模式</p><p>回溯法是一种选优搜索法 ，按选优条件向前搜索,以达到目标。但当探索到某一步时,发现原先选择并不优或达不到目标，就退回一步重新<br>选择，这种走不通就退回再走的技术为回溯法。回溯法求解的过程其实是搜索整个解空间，来找到最优的解。而“皇后问题是一个典型的用<br>回溯法求解的问题。</p></blockquote><p>若对一个链表最常用的操作是在末尾插入结点和删除尾结点，则采用仅设尾指针的单向循环链表(不含头结点)时，( ) 。<br>问题1选项<br>O A插入和删除操作的时间复杂度都为0(1)<br>O B.插入和删除操作的时间复杂度都为0(m)<br>O C插入操作的时间复杂度为0(1) ,删除操作的时间复杂度为O(n)<br>O D.插入操作的时间复杂度为0(n) ,删除操作的时间复杂度为0(1)</p><p><img src="/imgs/image-20210521085654069.png" alt="image-20210521085654069"></p>]]></content>
       
@@ -138,8 +195,8 @@
     
     <entry>
       <title>打卡第十天</title>
-      <link href="2021/05/20/da-qia-di-shi-tian/"/>
-      <url>2021/05/20/da-qia-di-shi-tian/</url>
+      <link href="2021/05/20/si-ji-ji-ruan-kao/da-qia-di-shi-tian/"/>
+      <url>2021/05/20/si-ji-ji-ruan-kao/da-qia-di-shi-tian/</url>
       
         <content type="html"><![CDATA[<blockquote></blockquote><p><a href="https://uc.educity.cn/tiku/testReport.html?id=15810316">https://uc.educity.cn/tiku/testReport.html?id=15810316</a></p><p>在ASP的内置对象中，( ) 对象可以修改cookie中的值。</p><p>问题1选项<br>OA.request<br>O B.response<br>O C application<br>O D.session<br>目试题解析:在ASP的内置对象中。 能修改cookie中的值的是response ,它还可以创建cookie，而request可以访问cookie中的参数。</p><p>[单选题]<br>己知一棵度为3的树(一个结点的度是指其子树的数目,树的度是指该树中所有结点的度的最大值)中有5个度为1的结点，4个度为2的结点, 2个度为3的结点，那么，该树中的叶子结点数目为( ) 。</p><p>OA10<br>OB.9<br>OC.8<br>OD.7<br>目试题解析:由于叶子节点没有子树,因此它的度为0。而除根节点外, 其它的节点都应该可以做为子节点,即可以用于计算度。<br>在本题中告我有5个度为1的结点，4个度为2的结点, 2个度为3的结点,那么树中总的度数为5+8+6=19 ,因此树中除根节点外,就应该有19<br>个节点，所以树中总的节点数应该为20，那么叶子节点数=20-5-4-2=9。</p><blockquote><p>树</p><p>1.有且仅有一个根结点<br>2.双亲和孩子具有相同父节点的子结点互为兄弟结<br>3.结点的度:一个结点的子树的个数就是该结点的度<br>4树的度:树中结点的度的最大值<br>5.叶子结点:度为0的结点，没有子树的结点也叫做0结点。<br>6.结点的层次:根节点为第一层,根节点的孩子为第二层，以此类推。</p><p>树的遍历</p><ul><li>一共三种方式:<br>前序遍历:根左右<br>层次遍历:层左右<br>后序遍历:左右根</li></ul></blockquote><p><img src="/imgs/image-20210520133715688.png" alt="image-20210520133715688"></p>]]></content>
       
@@ -157,10 +214,29 @@
     
     <entry>
       <title>打卡第九天</title>
-      <link href="2021/05/19/da-qia-di-jiu-tian/"/>
-      <url>2021/05/19/da-qia-di-jiu-tian/</url>
+      <link href="2021/05/19/si-ji-ji-ruan-kao/da-qia-di-jiu-tian/"/>
+      <url>2021/05/19/si-ji-ji-ruan-kao/da-qia-di-jiu-tian/</url>
       
         <content type="html"><![CDATA[<blockquote><p>堕落不是今天多吃一块蛋糕多喝一杯可乐，也不是出门，不化精致的妆容好看的小裙子，更不是晚上没有用神仙水蒸脸仪，堕落是你不能学会自己爱自己。</p></blockquote><p><img src="/imgs/image-20210519082113908.png" alt="image-20210519082113908"></p><h3 id="软件设计师中级"><a href="#软件设计师中级" class="headerlink" title="软件设计师中级"></a>软件设计师中级</h3><p>[单选题]<br>W3C制定了同步多媒体集成语言规范,称为( ) 规范。<br>问题1选项<br>OA.XML<br>O B.SMIL<br>O C.VRML<br>O D.SGML<br>参考答案: B<br>你的答案: A<br>试题解析: W3C制定的SMIL ( Synchronized Multimedia Integration Language，同步多媒体集成语言规范)是W3C为采用XML描述多媒体而提出的建议标准，它采用XML标准来描述多媒体中的各种不同内容的时间序列和画面构成,定义了时间标签、层次布局、图像、动画、视觉渐变和媒<br>体嵌入等元素。用户可以简单地使用SMIL语言在一个多媒体作品中按时间序列自由组织音频、 视频和文字等各种媒体内容。</p><p><img src="/imgs/image-20210519090314524.png" alt="image-20210519090314524"></p><p>[单选题]<br>在移臂调度算法中，( ) 算法可能会随时改变移动臂的运动方向。<br>问题1选项<br>OA电梯调度和先来先服务<br>O B.先来先服务和最短寻找时间优先<br>O C单向扫描和先来先服务<br>O D电梯调度和最短寻找时间优先<br>参考答案: B<br>你的答案: D<br>自试题解析:<br>本题考查对磁盘调度方面基本知识掌握的程度。<br>因为<code>先来先服务是谁先请求先满足谁的请求</code>，而最短寻找时间优先是根据当前磁臂到要请求访问磁道的距离，<code>谁短满足谁的请求</code>，故先来先服务和最短寻找时间优先算法可能会随时改变移动臂的运动方向。</p><p>[单选题]在对程序质量进行评审时,模块结构是一-个重 要的评审项，评审内容中不包括( ) 。<br>问题1选项<br>OA数据结构<br>O B数据流结构<br>O C控制流结构<br>O D.模块结构与功能结构之间的对应关系<br>参考答案:A<br>你的答案: C<br>目试题解析:</p><p>模块结构评审时 ,主要包括以下方面的评审:<br>1、<code>控制流结构</code>:规定了处理模块与处理模块之间的流程关系。检查处理模块之间的控制转移关系与控制转移形式(调用方式)。<br>2、<code>数据流结构</code>:规定了数据模块是如何被处理模块进行加工的流程关系。检查处理模块与数据模块之间的对应关系;处理模块与数据模块之<br>间的存取关系，如建立、删除、查询、修改等。<br>3、<code>模块结构与功能结构之间的对应关系</code>:包括功能结构与控制流结构的对应关系;功能结构与数据流结构的对应关系;每个模块的定义(包<br>括功能、输入与输出数据)。</p><p>[单选题]<br>在进行子系统结构设计时，需要确定划分后的子系统模块结构，并画出模块结构图。该过程不需要考虑( ) 。<br>问题1选项<br>OA.每个子系统如何划分成多个模块<br>O B.每个子系统采用何种数据结构和核心算法<br>O C如何确定子系统之间、模块之间传送的数据及其调用关系<br>O D.如何评价并改进模块结构的质量<br>参考答案:B<br>你的答案: D<br>目试题解析:系统模块结构设计的任务 是确定划分后的子系统的模块结构,并画出模块结构图,这个过程中必须考虑这样几个问题:每个子系统如何划分成若干个模块;如何确定子系统之间、模块之间传送的数据及其调用关系;如何评价并改进模块结构的质量;如何从数据流图导出模块结构图。</p><p>[单选题]<br>在CPU中用于跟踪指令地址的寄存器是( ) 。<br>问题1选项<br>O A.地址寄存器(MAR)<br>O B数据寄存器(MDR)<br>O C.程序计数器(PC)<br>O D.指令寄存器(R)<br>目试题解析:本题主要考查寄存器的相关内容。<br>程序计数器是用于存放下一条指令所在单 元的地址的地方。在程序执行前，必须将程序的起始地址，即程序的一条指令 所在的内存单元地址<br>送入程序计数器,当执行指令时，CPU将自动修改程序计数器的内容，即每执行一条指令程序计数器增加一个量,使其指向下一个待指向的<br>指令。程序的转移等操作也是通过该寄存器来实现的。因此<code>CPU中跟踪指令地址的是程序计数器( PC )</code>。<br><code>指令寄存器</code>一般用来保存当前正在执行的一 条指令。<br><code>数据寄存器</code>主要是用来保存操作数和运算结果等信息的，其目的是为了节省读取操作数所需占用总线和访问存储器的时间。<br><code>地址寄存器</code>一般用来保存当前CPU所访问的内存 单元的地址，以方便对内存的读写操作。</p><blockquote><p>指令相关：程序计数器PC，指令寄存器</p><p>数据相关：数据寄存器</p><p>内存相关：地址寄存器</p></blockquote><p>用插入排序和归并排序算法对数组&lt;3，1 ,4,1,5,9, 6, 5&gt;进行从小到大排序,则分别需要进行( ) 次数组元素之间的比较。<br>问题1选项<br>OA.12, 14<br>OB.10，14<br>Oc.12, 16<br>OD.10，16 </p><p>设某语言的语法规则用上下文无关文法G=(N, T ,P，S)表示，其中N是非终结符号的集合, T是终结符号的集合，P是产生式集合, S是开始符号，令<br>V=NUT，那么符合该语言的句子是( )。<br>问题1选项<br>O A.从S出发推导的、仅包含T中符号的符号串<br>O B.从N中符号出发推导的、仅包含T中符号的符号串<br>OC.从S出发推导的、包含V中符号的符号串<br>O D.从N中符号出发推导的、包含V中符号的符号串<br>参考答案: A<br>民查看解析<br>你的答案: C<br>以试题解析:本题考 查程序语言方面的基础知识。<br><code>一个文法的语言是该文法能产生的句子的集合。一个文法产生的句子是从文法开始符号出发推导出的所有终结符号串</code>。</p><p><a href="https://uc.educity.cn/tiku/testReport.html?id=15746237">https://uc.educity.cn/tiku/testReport.html?id=15746237</a></p><p><img src="/imgs/image-20210519094352751.png" alt="image-20210519094352751"></p><p><a href="https://uc.educity.cn/tiku/testReport.html?id=15762541">https://uc.educity.cn/tiku/testReport.html?id=15762541</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 每日任务 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>打卡第八天</title>
+      <link href="2021/05/18/si-ji-ji-ruan-kao/da-qia-di-ba-tian/"/>
+      <url>2021/05/18/si-ji-ji-ruan-kao/da-qia-di-ba-tian/</url>
+      
+        <content type="html"><![CDATA[<blockquote></blockquote><p><img src="/imgs/image-20210518082511690.png" alt="image-20210518082511690"></p><blockquote><h3 id="软件设计师"><a href="#软件设计师" class="headerlink" title="软件设计师"></a>软件设计师</h3></blockquote><p>上下文无关文法:形式语言理论中一种重要的变换文法，用来描述上下文无关语言，在<code>乔姆斯基分层中称为2型文法</code>。由于程序设计语言的<code>语 法</code>基本上都是<code>上下文无关文法</code>,因此应用十分广泛。</p><p>本题考查UML类图之间类与类之间的关系。<br>UML类图中类与类之间的关系有五种:依赖、关联、聚合、组合与继承。依赖是几种关系中最弱的一种关系，通常，使用类库就是其中的一种关系。聚合与组合都表示了整体和部分的关系。</p><p><code>组合的程度比聚合高</code>，<code>当整体对象消失时,部分对象也随之消失</code>,则属于<code>组合</code>关系，当整体对象消失而部分对象依然可以存在并继续被使用时，则属于<code>聚合</code>关系。</p><p><code>改正性维护</code>:在软件交付使用后，必然会有一部分隐藏的错误被带到运行阶段来。 这些隐藏下来的错误在某些特定的使用环境下就会暴露出<br>来。为了<code>纠正这些错误</code>而对软件进行的维护工作就是改正性维护。<br><code>适应性维护</code>:随着计算机的飞速发展，<code>外部环境</code>(新的硬、软件配置)或数据环境(数据库、数据格式、 数据输入输出方式、数据存储介质)或应<br>用<code>环境</code>可能发生<code>变化</code>，为了<code>使软件适应这种变化</code>，而去修改软件的过程就叫做适应性维护。<br><code>完善性维护</code>:<code>在软件的使用过程中</code>，用户往往会对软件<code>提出新的功能与性能要求</code>。为了满足这些要求，需要修改或再开发软件，以扩充软件功能、增强软件性能、改进加工效率、提高软件的可维护性。这种情况下进行的维护活动叫做完善性维护。<br><code>预防性维护</code>:为了提高软件的可维护性、可靠性等而提出的一种维护类型，它为以后进一步改进软件打下良好基础。 通常，预防性维护定义为:“把今天的方法学用于昨天的系统以满足明天的需要”。也就是说，采用先进的软件工程方法对需要维护的软件或软件中的某一部分(重新)进行设计、编制和测试。<br>综上所述，本题的正确答案应选C。</p><p>[单选题]<br>某企业由于外部市场环境和管理需求的变化对现有软件系统提出新的需求，则对该软件系统进行的维护属于( ) 维护。<br>问题1选项<br>OA.正确性<br>O B.完善性<br>OC适应性<br>O D.预防性</p><p>动态语言是指程序在运行时可以改变其结构，例如新的函数可以被引进、已有的函数可以被删除等在结构上的变化等。动态语言的类型检<br>查是在运行时进行的，其优点是方便阅读，不需要写非常多的与类型相关的代码;缺点是不方便调试，命名不规范时会读不懂、不利于理解<br>等。<br>脚本语言代表一套与系统程序设计语言不同的协定。它们牺牲执行速度和与系统程序设计语言相关的类型长度而提供更高的编程创作能<br>力和软件重用。脚本语言更适合在联系复杂的应用程序中进行胶着(粘合)。为了简化连接组件的工作，脚本语言被设计为无类型的，脚本<br>语言一般是面向字符的，因为字符为许多不同的事物提供了一致的描述。<br>事实上，脚本语言都是动态语言，而动态语言都是解释型语言， 不管它们是否是面向对象的语言。</p><blockquote><p>linux系统的根目录是/<br>root超级用户的家目录是/root</p></blockquote><p>一个B类网络的子网掩码为255.255. 224.0 ,则这个网络被划分成了( ) 个子网。<br>问题1选项<br>OA.2<br>OB.4<br>Oc.6<br>OD.8<br>参考答案: D<br>民查看解析●收藏<br>你的答案: B<br><img src="/imgs/image-20210518235000043.png" alt="image-20210518235000043"></p><p><img src="/imgs/image-20210518235125614.png" alt="image-20210518235125614"></p><p><img src="/imgs/image-20210518235206048.png" alt="image-20210518235206048"></p>]]></content>
       
       
       
@@ -195,8 +271,8 @@
     
     <entry>
       <title>打卡第七天</title>
-      <link href="2021/05/17/da-qia-di-qi-tian/"/>
-      <url>2021/05/17/da-qia-di-qi-tian/</url>
+      <link href="2021/05/17/si-ji-ji-ruan-kao/da-qia-di-qi-tian/"/>
+      <url>2021/05/17/si-ji-ji-ruan-kao/da-qia-di-qi-tian/</url>
       
         <content type="html"><![CDATA[<blockquote><p>鸡汤</p></blockquote><h3 id="软件设计师每日一练错题"><a href="#软件设计师每日一练错题" class="headerlink" title="软件设计师每日一练错题"></a>软件设计师每日一练错题</h3><p>在Windows系统中,默认权限最低的用户组是( ) 。<br>问题1选项<br>O A.everyone<br>O B.administrators<br>O C.power users<br>O D.users</p><p>参考答案: A<br>你的答案: D<br>目试题解析:</p><p> <code>Everyone</code>即所有的用户 , 计算机上的所有用户都属于这个组,它的默认权限最低。<br><code>Administrators</code>即管理员组，默认情况下，Administrators中的用户对计算机域有不受限制的完全访问权。分配给该组的默认权限允许对整个系统进行完全控制,该组拥有最高的默认权限。<br><code>power users</code>即高级用户组，它可以执行除了为Administrators组保留的任务外的其他任何操作系统任务，它的默认权限仅次于Administrators.<br><code>Users</code>即普通用户组，这个组的用户无法进行有意或无意的改动。因此，用户可以运行经过验证的应用程序，但不可以运行大多数旧版应用程序。Users 组是最安全的组，因为分配给该组的默认权限不允许成员修改操作系统的设置或用户资料。</p><p>[单选题]<br>设备驱动程序是直接与( ) 打交道的软件模块。一般而言，设备驱动程序的任务是接受来自与设备( ) 。<br>问题1选项<br>OA硬件<br>O B.办公软件<br>Oc编译程序<br>O D.连接程序<br>问题2选项<br>OA有关的上层软件的抽象请求，进行与设备相关的处理<br>O B.无关的.上层软件的抽象请求,进行与设备相关的处理<br>OC.有关的上层软件的抽象请求，进行与设备无关的处理<br>O D.无关的上层软件的抽象请求，进行与设备无关的处理</p><p>参考答案:A、E<br>你的答案:A、A<br>自试题解析:<br>本题考查的是操作系统设备管理中的基础知识。<br>设备驱动程序是直接与硬件打交道的软件模块。一般而言 ，设备驱动程序的任务是接受来自于<code>设备无关的上层软件的抽象请求</code>，进行与设备相关的处理。</p><p>(一)对于第一空,本题使用的是贪心法。<br>1、<code>分治法</code>特征:对于一个规模为n的问题，若该问题可以容易地解决(比如说规模n较小)则直接解决;否则将其分解为k个规模较小的子问<br>题,这些子问题互相独立且与原问题形式相同,递归地解这些子问题,然后将各子问题的解合并得到原问题的解。<br>2、<code>动态规划法</code>:在求解问题中，对于每一步决策 ，列出各种可能的局部解，再依据某种判定条件，舍弃那些肯定不能得到最优解的局部解,<br>在每一步都经过筛选 ，以每一步都是 最优解来保证全局是最优解。本题情景没有列出所有的可能解进行筛选，因此，本题不属于动态规划<br>法。<br>3、<code>回溯法</code>:回溯法是一种选优搜索法，按选优条件向前搜索，以达到目标。但当搜索到某一步时，发现原先选择并不优或达不到目标,就退<br>回一步重新选择。这种走不通就退回再走的技术就是回溯法。本题情景没有探索和回退的过程，因此，本题不属于回溯法。<br>4、<code>贪心法</code>:总是做出在当前来说是最好的选择，而并不从整体上加以考虑，它所做的每步选择只是当前步骤的局部最优选择，但从整体来说<br>不一定是最优的选择。由于它不必为了寻找最优解而穷尽所有可能解，因此其耗费时间少，一 般可以快速得到满意的解，但得不到最优解。<br>5、“能够覆盖左侧第一栋房子的最远位置，放置消防栓”为策略进行处理，取当前位置最优，因此本题属于贪心法的算法思想。<br>(二)对于第二空,时间复杂度。<br>由于本题的算法过程，是依次与各个房子进行判断，当所有房子都被比较之后，则问题结束，因此时间复杂度与房子的个数相关，本问题的<br>时间复杂度应该趋于现象，为O(n)。</p>]]></content>
       
@@ -214,8 +290,8 @@
     
     <entry>
       <title>打卡第六天</title>
-      <link href="2021/05/16/da-qia-di-liu-tian/"/>
-      <url>2021/05/16/da-qia-di-liu-tian/</url>
+      <link href="2021/05/16/si-ji-ji-ruan-kao/da-qia-di-liu-tian/"/>
+      <url>2021/05/16/si-ji-ji-ruan-kao/da-qia-di-liu-tian/</url>
       
         <content type="html"><![CDATA[<blockquote><p>不要对亲近的人说谢谢。谢谢这个词意味着距离感，对朋友可以说「 兄弟，真棒」对，爱人可以说「宝贝，爱你」</p></blockquote><p><img src="/imgs/image-20210516084619821.png" alt="image-20210516084619821"></p><h3 id="软件设计师错题整理"><a href="#软件设计师错题整理" class="headerlink" title="软件设计师错题整理"></a>软件设计师错题整理</h3><blockquote><p>BIOS（基本输入输出系统）是一组固化到计算机内主板上一个ROM芯片上的程序</p><p>奇偶校验只能查错不能纠错</p><p>公开加密是非对称加密，共享加密是对称加密</p><p>结构化分析的结果：一套分层的数据流图、一本数据字典、一组小说明（也称逻辑加工说明）、补充材料。</p><p>短路运算：</p></blockquote>]]></content>
       
@@ -233,8 +309,8 @@
     
     <entry>
       <title>打卡第五天</title>
-      <link href="2021/05/15/da-qia-di-wu-tian/"/>
-      <url>2021/05/15/da-qia-di-wu-tian/</url>
+      <link href="2021/05/15/si-ji-ji-ruan-kao/da-qia-di-wu-tian/"/>
+      <url>2021/05/15/si-ji-ji-ruan-kao/da-qia-di-wu-tian/</url>
       
         <content type="html"><![CDATA[<blockquote><p>公钥：加密和验证（对称加密、共享加密）</p><p>私钥：解密和签名</p><p>CA机构 权威机构</p><p>CA题目一般与CA相关</p></blockquote><h2 id="软件设计师"><a href="#软件设计师" class="headerlink" title="软件设计师"></a>软件设计师</h2><p><img src="/imgs/image-20210515072049180.png" alt="image-20210515072049180"></p><p><img src="/imgs/image-20210515072539026.png" alt="image-20210515072539026"></p><p><img src="/imgs/image-20210515072819985.png" alt="image-20210515072819985"></p><p><img src="/imgs/image-20210515072949024.png" alt="image-20210515072949024"></p><p><img src="/imgs/image-20210515073051360.png" alt="image-20210515073051360"></p><p><img src="/imgs/image-20210515073420406.png" alt="image-20210515073420406"></p><p><img src="/imgs/image-20210515074137366.png" alt="image-20210515074137366"></p><p><img src="/imgs/image-20210515074329890.png" alt="image-20210515074329890"></p><p><img src="/imgs/image-20210515074556018.png" alt="image-20210515074556018"></p><p><img src="/imgs/image-20210515074700873.png" alt="image-20210515074700873"></p><p><img src="/imgs/image-20210515074916182.png" alt="image-20210515074916182"></p><p><img src="/imgs/image-20210515074848819.png" alt="image-20210515074848819"></p><p><img src="/imgs/image-20210515075044782.png" alt="image-20210515075044782"></p><p><img src="/imgs/image-20210515075254050.png" alt="image-20210515075254050"></p><p><img src="/imgs/image-20210515075345191.png" alt="image-20210515075345191"></p><p><img src="/imgs/image-20210515075624220.png" alt="image-20210515075624220"></p><p><img src="/imgs/image-20210515075822628.png" alt="image-20210515075822628"></p><p><img src="/imgs/image-20210515080524302.png" alt="image-20210515080524302"></p><p><img src="/imgs/image-20210515080643927.png" alt="image-20210515080643927"></p><p><img src="/imgs/image-20210515080825235.png" alt="image-20210515080825235"></p><p><img src="/imgs/image-20210515081215093.png" alt="image-20210515081215093"></p><p><img src="/imgs/image-20210515081819435.png" alt="image-20210515081819435"></p><p><img src="/imgs/image-20210515082021148.png" alt="image-20210515082021148"></p><p><img src="/imgs/image-20210515082112287.png" alt="image-20210515082112287"></p><p><img src="/imgs/image-20210515082223190.png" alt="image-20210515082223190"></p><p><img src="/imgs/image-20210515082504546.png" alt="image-20210515082504546"></p><p><img src="/imgs/image-20210515082552186.png" alt="image-20210515082552186"></p>]]></content>
       
@@ -252,8 +328,8 @@
     
     <entry>
       <title>打卡第四天</title>
-      <link href="2021/05/14/da-qia-di-si-tian/"/>
-      <url>2021/05/14/da-qia-di-si-tian/</url>
+      <link href="2021/05/14/si-ji-ji-ruan-kao/da-qia-di-si-tian/"/>
+      <url>2021/05/14/si-ji-ji-ruan-kao/da-qia-di-si-tian/</url>
       
         <content type="html"><![CDATA[<blockquote><p>承认自己的无知乃是开启智慧的大门–苏格拉底</p></blockquote><p><img src="/imgs/image-20210514070807488.png" alt="image-20210514070807488"></p><h2 id="软件设计师"><a href="#软件设计师" class="headerlink" title="软件设计师"></a>软件设计师</h2><blockquote><p>优缺点不怎么考，主要考逻辑地址也物理地址的转换</p><p>通过页面大小4k计算，业内地址，4k=2^12B,业内偏移不变的位数（16进制）</p></blockquote><p><img src="/imgs/image-20210514070539212.png" alt="image-20210514070539212"></p><blockquote><p>LRU算法：淘汰最近没有被访问过的页,看不出来，看修改位未被修改过</p></blockquote><p><img src="/imgs/image-20210514072003738.png" alt="image-20210514072003738"></p><blockquote><p>Tips地址从0开始，一级索引的物理块号，磁盘大小/地址大小-直接索引+1=一级间接索引，注意单位统一</p></blockquote><p><img src="/imgs/image-20210514072552504.png" alt="image-20210514072552504"></p><p><img src="/imgs/image-20210514073557488.png" alt="image-20210514073557488"></p><p><img src="/imgs/image-20210514073638489.png" alt="image-20210514073638489"></p><p><img src="/imgs/image-20210514073739774.png" alt="image-20210514073739774"></p><p><img src="/imgs/image-20210514073825599.png" alt="image-20210514073825599"></p><p><img src="/imgs/image-20210514074947130.png" alt="image-20210514074947130"></p><p><img src="/imgs/image-20210514075053170.png" alt="image-20210514075053170"></p><p><img src="/imgs/image-20210514075123103.png" alt="image-20210514075123103"></p><p><img src="/imgs/image-20210514075600413.png" alt="image-20210514075600413"></p><blockquote><p>越往上越逻辑,三级模式两级映射</p></blockquote><p><img src="/imgs/image-20210514075650272.png" alt="image-20210514075650272"></p><p><img src="/imgs/image-20210514080211953.png" alt="image-20210514080211953"></p><p><img src="/imgs/image-20210514080246691.png" alt="image-20210514080246691"></p><p><img src="/imgs/image-20210514080338487.png" alt="image-20210514080338487"></p><p><img src="/imgs/image-20210514080420654.png" alt="image-20210514080420654"></p><blockquote><p>如题存在部分函数依赖，一级范式最lose的范式</p></blockquote><p><img src="/imgs/image-20210514080723716.png" alt="image-20210514080723716"></p><blockquote><p><code>无损分解：</code>分解R1-R2=R1有，R2没有，通过他，他们共同的字母去推，什么都推不出来是有损分解</p><p><code>函数依赖</code>看分解的式子中是否能推导</p></blockquote><p><img src="/imgs/image-20210514081236036.png" alt="image-20210514081236036"></p><p><img src="/imgs/image-20210514082013968.png" alt="image-20210514082013968"></p><p><img src="/imgs/image-20210514082102563.png" alt="image-20210514082102563"></p><blockquote><p>把操作相关的写到日志文件里，数据相关的写到数据文件里</p></blockquote><p><img src="/imgs/image-20210514082146441.png" alt="image-20210514082146441"></p><p><img src="/imgs/image-20210514082348180.png" alt="image-20210514082348180"></p><p><img src="/imgs/image-20210514082422741.png" alt="image-20210514082422741"></p><p><img src="/imgs/image-20210514082737556.png" alt="image-20210514082737556"></p><blockquote><p>自然连接：重复的只显示一次</p></blockquote><p><img src="/imgs/image-20210514083019339.png" alt="image-20210514083019339"></p><p><img src="/imgs/image-20210514083159033.png" alt="image-20210514083159033"></p><p><img src="/imgs/image-20210514083348851.png" alt="image-20210514083348851"></p><p><img src="/imgs/image-20210514083439622.png" alt="image-20210514083439622"></p><p><img src="/imgs/image-20210514083522013.png" alt="image-20210514083522013"></p><p><img src="/imgs/image-20210514083633934.png" alt="image-20210514083633934"></p><p><img src="/imgs/image-20210514083708219.png" alt="image-20210514083708219"></p><p><img src="/imgs/image-20210514084021389.png" alt="image-20210514084021389"></p><p><img src="/imgs/image-20210514084113593.png" alt="image-20210514084113593"></p><p><img src="/imgs/image-20210514084203255.png" alt="image-20210514084203255"></p><p><img src="/imgs/image-20210514084239515.png" alt="image-20210514084239515"></p><p><img src="/imgs/image-20210514084311024.png" alt="image-20210514084311024"></p><p><img src="/imgs/image-20210514084349901.png" alt="image-20210514084349901"></p><p><img src="/imgs/image-20210514084424915.png" alt="image-20210514084424915"></p><p><img src="/imgs/image-20210514084514254.png" alt="image-20210514084514254"></p><p><img src="/imgs/image-20210514084608643.png" alt="image-20210514084608643"></p><p><img src="/imgs/image-20210514084645355.png" alt="image-20210514084645355"></p><p><img src="/imgs/image-20210514084732000.png" alt="image-20210514084732000"></p><p><img src="/imgs/image-20210514084823821.png" alt="image-20210514084823821"></p><h3 id><a href="#" class="headerlink" title></a></h3><video id="video" width="500px" height="500px" controls preload="none">      <source id="mp4" src="https://cdn.jsdelivr.net/gh/JackWang-web/JackWang-web.github.io/videos/承认自己的无知，乃是开启智慧的大门【罗翔教授】.mp4" type="video/mp4"></video>]]></content>
       
@@ -271,8 +347,8 @@
     
     <entry>
       <title>打卡第三天</title>
-      <link href="2021/05/13/da-qia-di-san-tian/"/>
-      <url>2021/05/13/da-qia-di-san-tian/</url>
+      <link href="2021/05/13/si-ji-ji-ruan-kao/da-qia-di-san-tian/"/>
+      <url>2021/05/13/si-ji-ji-ruan-kao/da-qia-di-san-tian/</url>
       
         <content type="html"><![CDATA[<blockquote><p>心语分享:人生路上抉择时需要大胆自私一点，面前的这口食,你不吃很快就被别人吃了，没时间给你顾虑</p></blockquote><h2 id="软件设计师"><a href="#软件设计师" class="headerlink" title="软件设计师"></a>软件设计师</h2><p>循环冗余校验码：使用多项式除法（模2除法）</p><p>通过多项式求多项式编码</p><p><img src="/imgs/image-20210513080623440.png" alt="image-20210513080623440"></p><p><img src="/imgs/image-20210513080739085.png" alt="image-20210513080739085"></p><p><img src="/imgs/image-20210513080819113.png" alt="image-20210513080819113"></p><p><img src="/imgs/image-20210513080859138.png" alt="image-20210513080859138"></p><p><code>注意吞吐率(指令条数除以流水线)的计算与时间转换</code></p><p><img src="/imgs/image-20210513080938311.png" alt="image-20210513080938311"></p><p><code>加速比=正常（串行）/并行</code></p><p><img src="/imgs/image-20210513081845676.png" alt="image-20210513081845676"></p><p><img src="/imgs/image-20210513082736016.png" alt="image-20210513082736016"></p><p><img src="/imgs/image-20210513082818703.png" alt="image-20210513082818703"></p><p><code>1Byte=8bit 1K = 1024 byte</code></p><p><img src="/imgs/image-20210513083717718.png" alt="image-20210513083717718"></p><p><img src="/imgs/image-20210513084549535.png" alt="image-20210513084549535"></p><p><img src="/imgs/image-20210513084711769.png" alt="image-20210513084711769"></p><p><img src="/imgs/image-20210513084916760.png" alt="image-20210513084916760"></p><p><img src="/imgs/image-20210513085004777.png" alt="image-20210513085004777"></p><p><img src="/imgs/image-20210513085036219.png" alt="image-20210513085036219"></p><p><img src="/imgs/image-20210513085109014.png" alt="image-20210513085109014"></p><p><img src="/imgs/image-20210513090153310.png" alt="image-20210513090153310"></p><p><img src="/imgs/image-20210513090253137.png" alt="image-20210513090253137"></p><p><img src="/imgs/image-20210513090355116.png" alt="image-20210513090355116"></p><h2 id="省考"><a href="#省考" class="headerlink" title="省考"></a>省考</h2><p>样式运算</p><p><img src="/imgs/image-20210513092031018.png" alt="image-20210513092031018"></p><p><img src="/imgs/image-20210513092331331.png" alt="image-20210513092331331"></p><p>同（样式求同）：不关注大小，比例，面积，看形状</p><p><img src="/imgs/image-20210513092741798.png" alt="image-20210513092741798"></p><p>异：去同+旋转</p><p><img src="/imgs/image-20210513092834362.png" alt="image-20210513092834362"></p><p><img src="/imgs/image-20210513093756593.png" alt="image-20210513093756593"></p><p>数量类：</p><p><img src="/imgs/image-20210513095550684.png" alt="image-20210513095550684"></p><p><img src="/imgs/image-20210513095609437.png" alt="image-20210513095609437"></p><p><img src="/imgs/image-20210513095811963.png" alt="image-20210513095811963"></p><p><img src="/imgs/image-20210513100053924.png" alt="image-20210513100053924"></p><p><img src="/imgs/image-20210513100234646.png" alt="image-20210513100234646"></p><p><img src="/imgs/image-20210513100409498.png" alt="image-20210513100409498"></p><p><img src="/imgs/image-20210513100626556.png" alt="image-20210513100626556"></p><p><img src="/imgs/image-20210513100823180.png" alt="image-20210513100823180"></p><p><img src="/imgs/image-20210513101257126.png" alt="image-20210513101257126"></p><p><img src="/imgs/image-20210513101512010.png" alt="image-20210513101512010"></p><p><img src="/imgs/image-20210513101723353.png" alt="image-20210513101723353"></p><p><img src="/imgs/image-20210513101856524.png" alt="image-20210513101856524"></p><p><img src="/imgs/image-20210513102226906.png" alt="image-20210513102226906"></p><p><img src="/imgs/image-20210513102241071.png" alt="image-20210513102241071"></p><p><img src="/imgs/image-20210513102547255.png" alt="image-20210513102547255"></p><p><img src="/imgs/image-20210513102729706.png" alt="image-20210513102729706"></p><p><img src="/imgs/image-20210513102910345.png" alt="image-20210513102910345"></p><p><img src="/imgs/image-20210513102933649.png" alt="image-20210513102933649"></p><p>纯黑考虑部分</p><p><img src="/imgs/image-20210513103102058.png" alt="image-20210513103102058"></p><p>属性类：</p><p><img src="/imgs/image-20210513103548022.png" alt="image-20210513103548022"></p><p><img src="/imgs/image-20210513103609237.png" alt="image-20210513103609237"></p><p><img src="/imgs/image-20210513103645123.png" alt="image-20210513103645123"></p><p><img src="/imgs/image-20210513103723054.png" alt="image-20210513103723054"></p><p><img src="/imgs/image-20210513103807355.png" alt="image-20210513103807355"></p><p><img src="/imgs/image-20210513103856337.png" alt="image-20210513103856337"></p><p><img src="/imgs/image-20210513103914576.png" alt="image-20210513103914576"></p><p><img src="/imgs/image-20210513104124920.png" alt="image-20210513104124920"></p><p><img src="/imgs/image-20210513104302929.png" alt="image-20210513104302929"></p><p><img src="/imgs/image-20210513104422745.png" alt="image-20210513104422745"></p><p><img src="/imgs/image-20210513104538306.png" alt="image-20210513104538306"></p><p><img src="/imgs/image-20210513104706687.png" alt="image-20210513104706687"></p>]]></content>
       
@@ -290,8 +366,8 @@
     
     <entry>
       <title>打卡第二天</title>
-      <link href="2021/05/12/da-qia-di-er-tian/"/>
-      <url>2021/05/12/da-qia-di-er-tian/</url>
+      <link href="2021/05/12/si-ji-ji-ruan-kao/da-qia-di-er-tian/"/>
+      <url>2021/05/12/si-ji-ji-ruan-kao/da-qia-di-er-tian/</url>
       
         <content type="html"><![CDATA[<blockquote><p>总线：任意连接两个以上的电子元器件的导线，分类：</p><p>​            芯片级别，板线级别，设备级别</p><p>半双工：同一时刻只能传输在同一个方向上传输信息</p><p>全双工：同一时刻在传输在两个方向上传输信息</p><p>消息认证算法==信息摘要算法</p><p>公开密钥加密算法=非对称加密算法=公钥是公开的</p><p>DES是对称加密算法，非对称：ECC，DSA，RSA</p><p>数字签名的作用：主要验证发送方的真实性，数字签名主要是针对发送方。</p><p>数字证书的真伪：看是谁颁发的</p><p>阻塞节点：资源已经分配完了，还有资源来请求它</p><p>资源：先分配再使用</p><p>进程的调度：抢占式与非抢占式（抢占CPU），V操作加1，P操作减1</p><p>如果当前线程未阻塞，执行完当前线程，再去执行阻塞的线程</p><p>不会发生死锁：先假设会发生死锁的最大资源数最后再加1</p><p>银行家算法：找出序列是否是安全，在按照序列进行执行，使用总资源数减去已分配资源数得到剩余资源数。</p></blockquote><blockquote><h3 id="图形推理1：-动态位置"><a href="#图形推理1：-动态位置" class="headerlink" title="图形推理1：(动态位置)"></a>图形推理1：(动态位置)</h3><p>1.平移：</p><p>​    前提条件：图形组成元素相同</p><p>​    固定变化的一处地方，观察变化的<code>方向</code>和<code>距离</code></p><p>2.旋转：</p><p>​    方向、角度（肉眼可见角度）</p><p>​    Tips：顺时针旋转90度，5次得到原图</p><p>3.翻转==轴对称</p><p><img src="/imgs/image-20210512205301825.png" alt="image-20210512205301825"></p><h3 id="图形推理2：（静态位置）"><a href="#图形推理2：（静态位置）" class="headerlink" title="图形推理2：（静态位置）"></a>图形推理2：（静态位置）</h3><p>元素之间的之间</p><p><img src="/imgs/image-20210512210326297.png"></p><p><img src="/imgs/image-20210512210455833.png"></p><p><img src="/imgs/image-20210512210747176.png" alt="image-20210512210747176"></p><p>分组类题目：<code>相隔、相连重点</code></p><p><img src="/imgs/image-20210512211033395.png" alt="image-20210512211033395"></p><p><img src="/imgs/image-20210512211515705.png" alt="image-20210512211515705"></p><p>相连：看接触的位置</p><p><img src="/imgs/image-20210512211821346.png" alt="image-20210512211821346"></p><p><img src="/imgs/image-20210512212319009.png" alt="image-20210512212319009"></p><h3 id="图形推理3（样式类）"><a href="#图形推理3（样式类）" class="headerlink" title="图形推理3（样式类）"></a>图形推理3（样式类）</h3><p><img src="/imgs/image-20210512212645586.png" alt="image-20210512212645586"></p><p>1.样式遍历（全部出现一次）</p><p><img src="/imgs/image-20210512213132023.png" alt="image-20210512213132023"></p><p><img src="/imgs/image-20210512213211991.png" alt="image-20210512213211991"></p><p>2.样式运算（稍微难）</p><p><img src="/imgs/image-20210512213414323.png" alt="image-20210512213414323"></p></blockquote>]]></content>
       
@@ -309,8 +385,8 @@
     
     <entry>
       <title>打卡第一天</title>
-      <link href="2021/05/11/jin-ri-ren-wu/"/>
-      <url>2021/05/11/jin-ri-ren-wu/</url>
+      <link href="2021/05/11/si-ji-ji-ruan-kao/jin-ri-ren-wu/"/>
+      <url>2021/05/11/si-ji-ji-ruan-kao/jin-ri-ren-wu/</url>
       
         <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1498342485&amp;auto=0&amp;height=66"></iframe><blockquote><p>1.一套软件设计师真题，复习精华知识点第一讲。</p></blockquote><p>自己总是在下完目标之后，被其他事情所影响了完成进度。</p><blockquote><p>当下解决：在有限的时间内完成目标</p></blockquote><p>1.一套软件设计师真题，复习精华知识点第一讲。==2小时==</p><blockquote><p>学习完之后，晚上对一天的所学进行复盘</p><p>设置闹钟：23:30</p></blockquote><blockquote><p>容易被打扰解决，弄一个待办，把当下任务做完再去完成次要的：</p><p>1.找回网盘自律资料</p><p>2.看学校官网招聘</p></blockquote><blockquote><p>content one：</p><p>PC（程序计数器）:存放下一条指令要执行的地址 </p><p>浮点数：阶码影响范围，尾数影响精度（联想科学记数法）</p><p>数据位1100，求多项式编码:X^3+X+1==1011 。X^2没有</p><p>数据信息位加最高幂子数个0，商不用管</p><p>CRC编码：信息位+余数</p><p>吞吐率：单位时间内指令执行的条数</p><p><u>最大</u>加速比：不使用加速/使用加速；不使用加速直接全部相加，使用加速公式，最长的为周期，n-1条指令(任务)乘以周期</p><p>指令的平均读取时间=指令读取时间+数据读取时间</p><p>1到3有3个数，3-1+1=3</p></blockquote>]]></content>
       
@@ -328,8 +404,8 @@
     
     <entry>
       <title>我想带你一起蜕变！你准备好了吗？</title>
-      <link href="2021/05/10/wo-xiang-dai-ni-yi-qi-shui-bian-ni-zhun-bei-hao-liao-ma/"/>
-      <url>2021/05/10/wo-xiang-dai-ni-yi-qi-shui-bian-ni-zhun-bei-hao-liao-ma/</url>
+      <link href="2021/05/10/si-ji-ji-ruan-kao/wo-xiang-dai-ni-yi-qi-shui-bian-ni-zhun-bei-hao-liao-ma/"/>
+      <url>2021/05/10/si-ji-ji-ruan-kao/wo-xiang-dai-ni-yi-qi-shui-bian-ni-zhun-bei-hao-liao-ma/</url>
       
         <content type="html"><![CDATA[<blockquote><p>自律不是自虐,而是建立一种生活认知和习惯。当自律成为你的属性时一切都会变得简单起来。</p></blockquote><blockquote><p>从现在自律起来，一切交给时间，总有一天会站在曾经想要去的地方。</p></blockquote>]]></content>
       
@@ -352,28 +428,9 @@
     
     
     <entry>
-      <title>软件设计师中级下午题总结</title>
-      <link href="2021/05/06/ruan-jian-she-ji-shi-zhong-ji-xia-wu-ti-zong-jie/"/>
-      <url>2021/05/06/ruan-jian-she-ji-shi-zhong-ji-xia-wu-ti-zong-jie/</url>
-      
-        <content type="html"><![CDATA[<blockquote><h2 id="软件设计考点及分数说明"><a href="#软件设计考点及分数说明" class="headerlink" title="软件设计考点及分数说明"></a>软件设计考点及分数说明</h2></blockquote><table><thead><tr><th align="center">题号</th><th align="center">试题类型</th><th align="center">学科知识点</th><th align="left">考察内容</th></tr></thead><tbody><tr><td align="center">试题1</td><td align="center">必答题</td><td align="center">数据流图DFD</td><td align="left">补充数据流图<code>外部实体</code>:<br>补充数据流图<code>数据存储</code>;<br>补充<code>数据流(名称、起点、终点)</code>;<br>数据流图的改错(较少考察，包括数据流错误、删除多余数据流);<br>数据流图相关<code>概念简答</code>。</td></tr><tr><td align="center">试题2</td><td align="center">必答题</td><td align="center">数据库设计</td><td align="left">补充<code>E-R图</code>;<br><code>E-R图转换为关系模式</code>;<br><code>主键和外键、新增联系判断</code>。</td></tr><tr><td align="center">试题3</td><td align="center">必答题</td><td align="center">UML建模</td><td align="left"><code>用例图(联系类型，参与者);</code><br><code>类图和对象图(多重度，联系类型);</code><br><code>顺序图(补充对象名和消息名); </code>.<br><code>活动图(补充活动名，分岔线用途);</code><br><code>状态图(补充状态，状态转换条件);</code><br><code>通信图(补充对象名，消息名)</code></td></tr><tr><td align="center">试题4</td><td align="center">必答题</td><td align="center">C算法设计</td><td align="left">各种经典算法设计和数据结构，如链<br>表、栈、二叉树操作算法、KMP算法等;<br>算法类型(动态规划法、分治法、回溯法、递归法、贪心法);<br>时间、空间复杂度;<br>给定输入求输出。</td></tr><tr><td align="center">试题5</td><td align="center">必答题</td><td align="center">JAVA语言程序设计</td><td align="left">推荐选做:Java语法(只考简单语法，不考算法) +设计模式。</td></tr></tbody></table><p>下午的题目唯一的难点在于第4题算法设计分析，前三题通过技巧训练一般可以拿到12 分，最后的选做题可以拿到15分满分，要保证自己朝着这个方向努力，即使算法设计过难也可以顺利通过考试。其他题目都不难，多学多练，掌握解题技巧。</p><blockquote><p>数据字典是用来定义在数据流图中出现的符号或者名称的含义,在数据流图中,每个存储、加工、实体的含义都必须定义在数据流图中，并且父图和子图之间这些名称要相同。          </p></blockquote><p><img src="/imgs/image-20210525143628306.png" alt="image-20210525143628306"></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 软件设计师中级 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>软件设计师中级上午题总结</title>
-      <link href="2021/05/06/ruan-jian-she-ji-shi-zhong-ji-shang-wu-ti-zong-jie/"/>
-      <url>2021/05/06/ruan-jian-she-ji-shi-zhong-ji-shang-wu-ti-zong-jie/</url>
+      <link href="2021/05/06/si-ji-ji-ruan-kao/ruan-jian-she-ji-shi-zhong-ji-shang-wu-ti-zong-jie/"/>
+      <url>2021/05/06/si-ji-ji-ruan-kao/ruan-jian-she-ji-shi-zhong-ji-shang-wu-ti-zong-jie/</url>
       
         <content type="html"><![CDATA[<blockquote><p>“广记不如淡墨”，谚语，意思是死记不如用笔写下来。</p></blockquote><h2 id="1-McCabe度量法求环路复杂度"><a href="#1-McCabe度量法求环路复杂度" class="headerlink" title="1.McCabe度量法求环路复杂度"></a>1.McCabe度量法求环路复杂度</h2><p><img src="https://cdn.jsdelivr.net/gh/JackWang-web/JackWang-web.github.io/imgs/image-20210510083812006.png" alt="image-20210510083812006"></p><h3 id="1-1-方法1：封闭区域数-m-，环路复杂度-m-1"><a href="#1-1-方法1：封闭区域数-m-，环路复杂度-m-1" class="headerlink" title="1.1 方法1：封闭区域数(m)，环路复杂度=m+1"></a>1.1 方法1：封闭区域数(m)，环路复杂度=m+1</h3><h3 id="1-2-方法2：边数（m）-节点数（n）-2"><a href="#1-2-方法2：边数（m）-节点数（n）-2" class="headerlink" title="1.2 方法2：边数（m）-节点数（n）+2"></a>1.2 方法2：边数（m）-节点数（n）+2</h3><p>tips：考试的时候两种方法都验证一下</p><p>个别题型：</p><p><img src="/imgs/image-20210510084826196.png" alt="image-20210510084826196"></p><p><img src="/imgs/image-20210510085028870.png" alt="image-20210510085028870"></p><h2 id="2-前驱图（2-3分）"><a href="#2-前驱图（2-3分）" class="headerlink" title="2.前驱图（2-3分）"></a>2.前驱图（2-3分）</h2><h3 id="题型1-分两步，1标信号量，从小到大，2看执行的位置"><a href="#题型1-分两步，1标信号量，从小到大，2看执行的位置" class="headerlink" title="题型1:分两步，1标信号量，从小到大，2看执行的位置"></a>题型1:分两步，1标信号量，从小到大，2看执行的位置</h3><p><img src="/imgs/image-20210510085557250.png" alt="image-20210510085557250"></p><h3 id="题型2："><a href="#题型2：" class="headerlink" title="题型2："></a>题型2：</h3><p><img src="/imgs/image-20210510090015470.png" alt="image-20210510090015470"></p><h2 id="3-有限自动机（1分）"><a href="#3-有限自动机（1分）" class="headerlink" title="3.有限自动机（1分）"></a>3.有限自动机（1分）</h2><h3 id="题型1：将答案带进自动机验证"><a href="#题型1：将答案带进自动机验证" class="headerlink" title="题型1：将答案带进自动机验证"></a>题型1：将答案带进自动机验证</h3><p><img src="/imgs/image-20210510090504588.png" alt="image-20210510090504588"></p><h3 id="题型2：带答案"><a href="#题型2：带答案" class="headerlink" title="题型2：带答案"></a>题型2：带答案</h3><p><img src="/imgs/image-20210510090728810.png" alt="image-20210510090728810"></p><h3 id="题型3：-0-1-表示0或1的组合出现0-n次"><a href="#题型3：-0-1-表示0或1的组合出现0-n次" class="headerlink" title="题型3：(0|1)* 表示0或1的组合出现0~n次"></a>题型3：(0|1)* 表示0或1的组合出现0~n次</h3><p><img src="/imgs/image-20210510091103482.png" alt="image-20210510091103482"></p><h3 id="题型4：等价图"><a href="#题型4：等价图" class="headerlink" title="题型4：等价图"></a>题型4：等价图</h3><p><img src="/imgs/image-20210510091554523.png" alt="image-20210510091554523"></p><h2 id="4-传值、引用调用函数（1-2分）"><a href="#4-传值、引用调用函数（1-2分）" class="headerlink" title="4.传值、引用调用函数（1-2分）"></a>4.传值、引用调用函数（1-2分）</h2><h3 id="4-1传值按正常逻辑走，传引用-amp-符号-实参不可以是表达式"><a href="#4-1传值按正常逻辑走，传引用-amp-符号-实参不可以是表达式" class="headerlink" title="4.1传值按正常逻辑走，传引用&amp;符号,实参不可以是表达式"></a>4.1传值按正常逻辑走，传引用&amp;符号,实参不可以是表达式</h3><p><img src="/imgs/image-20210510095542950.png" alt="image-20210510095542950"></p><p><img src="/imgs/image-20210510100217730.png" alt="image-20210510100217730"></p><p><img src="/imgs/image-20210510100458476.png" alt="image-20210510100458476"></p><p><img src="/imgs/image-20210510100755968.png" alt="image-20210510100755968"></p><h2 id="5-知识产权保护"><a href="#5-知识产权保护" class="headerlink" title="5.知识产权保护"></a>5.知识产权保护</h2><h2 id="6-KMP算法"><a href="#6-KMP算法" class="headerlink" title="6.KMP算法"></a>6.KMP算法</h2><h3 id="8-1-甘特图和网络图"><a href="#8-1-甘特图和网络图" class="headerlink" title="8.1 甘特图和网络图"></a>8.1 甘特图和网络图</h3><p><img src="/imgs/image-20210524134612858.png" alt="image-20210524134612858"></p><h3 id="15-1-循环队列1"><a href="#15-1-循环队列1" class="headerlink" title="15.1 循环队列1"></a>15.1 循环队列1</h3><p><img src="/imgs/image-20210523131507285.png" alt="image-20210523131507285"></p><h3 id="15-2-循环队列2"><a href="#15-2-循环队列2" class="headerlink" title="15.2 循环队列2"></a>15.2 循环队列2</h3><p><img src="/imgs/image-20210523132226777.png" alt="image-20210523132226777"></p>]]></content>
       
@@ -396,9 +453,28 @@
     
     
     <entry>
+      <title>软件设计师中级下午题总结</title>
+      <link href="2021/05/06/si-ji-ji-ruan-kao/ruan-jian-she-ji-shi-zhong-ji-xia-wu-ti-zong-jie/"/>
+      <url>2021/05/06/si-ji-ji-ruan-kao/ruan-jian-she-ji-shi-zhong-ji-xia-wu-ti-zong-jie/</url>
+      
+        <content type="html"><![CDATA[<blockquote><h2 id="软件设计考点及分数说明"><a href="#软件设计考点及分数说明" class="headerlink" title="软件设计考点及分数说明"></a>软件设计考点及分数说明</h2></blockquote><table><thead><tr><th align="center">题号</th><th align="center">试题类型</th><th align="center">学科知识点</th><th align="left">考察内容</th></tr></thead><tbody><tr><td align="center">试题1</td><td align="center">必答题</td><td align="center">数据流图DFD</td><td align="left">补充数据流图<code>外部实体</code>:<br>补充数据流图<code>数据存储</code>;<br>补充<code>数据流(名称、起点、终点)</code>;<br>数据流图的改错(较少考察，包括数据流错误、删除多余数据流);<br>数据流图相关<code>概念简答</code>。</td></tr><tr><td align="center">试题2</td><td align="center">必答题</td><td align="center">数据库设计</td><td align="left">补充<code>E-R图</code>;<br><code>E-R图转换为关系模式</code>;<br><code>主键和外键、新增联系判断</code>。</td></tr><tr><td align="center">试题3</td><td align="center">必答题</td><td align="center">UML建模</td><td align="left"><code>用例图(联系类型，参与者);</code><br><code>类图和对象图(多重度，联系类型);</code><br><code>顺序图(补充对象名和消息名); </code>.<br><code>活动图(补充活动名，分岔线用途);</code><br><code>状态图(补充状态，状态转换条件);</code><br><code>通信图(补充对象名，消息名)</code></td></tr><tr><td align="center">试题4</td><td align="center">必答题</td><td align="center">C算法设计</td><td align="left">各种经典算法设计和数据结构，如链<br>表、栈、二叉树操作算法、KMP算法等;<br>算法类型(动态规划法、分治法、回溯法、递归法、贪心法);<br>时间、空间复杂度;<br>给定输入求输出。</td></tr><tr><td align="center">试题5</td><td align="center">必答题</td><td align="center">JAVA语言程序设计</td><td align="left">推荐选做:Java语法(只考简单语法，不考算法) +设计模式。</td></tr></tbody></table><p>下午的题目唯一的难点在于第4题算法设计分析，前三题通过技巧训练一般可以拿到12 分，最后的选做题可以拿到15分满分，要保证自己朝着这个方向努力，即使算法设计过难也可以顺利通过考试。其他题目都不难，多学多练，掌握解题技巧。</p><blockquote><p>数据字典是用来定义在数据流图中出现的符号或者名称的含义,在数据流图中,每个存储、加工、实体的含义都必须定义在数据流图中，并且父图和子图之间这些名称要相同。          </p></blockquote><p><img src="/imgs/image-20210525143628306.png" alt="image-20210525143628306"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 软件设计师中级 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>学习三步曲</title>
-      <link href="2021/05/05/xue-xi-san-bu-qu/"/>
-      <url>2021/05/05/xue-xi-san-bu-qu/</url>
+      <link href="2021/05/05/si-ji-ji-ruan-kao/xue-xi-san-bu-qu/"/>
+      <url>2021/05/05/si-ji-ji-ruan-kao/xue-xi-san-bu-qu/</url>
       
         <content type="html"><![CDATA[<h3 id="学习三步曲："><a href="#学习三步曲：" class="headerlink" title="学习三步曲："></a>学习三步曲：</h3><p>JMM</p><h4 id="1-什么是JMM？（百度百科）"><a href="#1-什么是JMM？（百度百科）" class="headerlink" title="1.什么是JMM？（百度百科）"></a>1.什么是JMM？（百度百科）</h4><p>【JMM】（Java Memory Model的缩写）</p><h4 id="2-它是干嘛的？：官方。其他人的博客，对应视频！"><a href="#2-它是干嘛的？：官方。其他人的博客，对应视频！" class="headerlink" title="2.它是干嘛的？：官方。其他人的博客，对应视频！"></a>2.它是干嘛的？：官方。其他人的博客，对应视频！</h4><h4 id="3-它该如何学习？"><a href="#3-它该如何学习？" class="headerlink" title="3.它该如何学习？"></a>3.它该如何学习？</h4><p>==废掉一个人==<br>==最快的方法就是闲着==<br>==成就一个人 最快的速度就是：==<br>==目标清晰，持续坚持行动，和不断的执行努力！==</p><p><img src="https://cdn.jsdelivr.net/gh/JackWang-web/JackWang-web.github.io/imgs/1.jpg" alt="努力"></p>]]></content>
       
