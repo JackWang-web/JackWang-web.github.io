@@ -8,13 +8,13 @@
       <link href="2022/02/13/sheng-huo-sui-bi/wo-de-flag/"/>
       <url>2022/02/13/sheng-huo-sui-bi/wo-de-flag/</url>
       
-        <content type="html"><![CDATA[<blockquote><p>第一个Flag</p></blockquote><ul><li> 每三天更新一篇博客</li></ul>]]></content>
+        <content type="html"><![CDATA[<h2 id="近期Flag"><a href="#近期Flag" class="headerlink" title="近期Flag"></a>近期Flag</h2><h3 id="第一个Flag"><a href="#第一个Flag" class="headerlink" title="第一个Flag"></a>第一个Flag</h3><blockquote><p>每三天更新一篇博客(2022年2月13日)</p></blockquote><h2 id="远期Flag"><a href="#远期Flag" class="headerlink" title="远期Flag"></a>远期Flag</h2><blockquote><p>拥有自己的第一套房</p></blockquote>]]></content>
       
       
       
         <tags>
             
-            <tag> -生活随笔 </tag>
+            <tag> 生活随笔 </tag>
             
         </tags>
       
@@ -501,9 +501,15 @@
       <link href="2021/05/04/hello-world/"/>
       <url>2021/05/04/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><blockquote><h3 id="使用总结："><a href="#使用总结：" class="headerlink" title="使用总结："></a>使用总结：</h3><p>1.执行多条命令</p><p><code>hexo g &amp;&amp; hexo s</code></p><p>2.在生成模板中的value值，遵循yml语法，使用空格隔开</p><p><code>- value</code></p><p>3.目录只是别2级与3级标题</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><h2 id="使用总结："><a href="#使用总结：" class="headerlink" title="使用总结："></a>使用总结：</h2><h3 id="1-执行多条命令"><a href="#1-执行多条命令" class="headerlink" title="1.执行多条命令"></a>1.执行多条命令</h3><p><code>hexo g &amp;&amp; hexo s</code></p><h3 id="2-在生成模板中的value值，遵循yml语法，使用空格隔开"><a href="#2-在生成模板中的value值，遵循yml语法，使用空格隔开" class="headerlink" title="2.在生成模板中的value值，遵循yml语法，使用空格隔开"></a>2.在生成模板中的value值，遵循yml语法，使用空格隔开</h3><p><code>- value</code></p><h3 id="3-目录只识别2级与3级标题"><a href="#3-目录只识别2级与3级标题" class="headerlink" title="3.目录只识别2级与3级标题"></a>3.目录只识别2级与3级标题</h3><h3 id="4-多个标签的使用"><a href="#4-多个标签的使用" class="headerlink" title="4.多个标签的使用"></a>4.多个标签的使用</h3><pre class=" language-yml"><code class="language-yml">title: Hexo博客新建文章并发布date: 2018-12-06 12:16:12tags: - Hexo - Markdowncategories: 搭建博客</code></pre>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
       
     </entry>
     
